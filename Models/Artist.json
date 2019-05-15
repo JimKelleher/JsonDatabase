@@ -1,0 +1,4204 @@
+﻿{
+  "artist": [
+    {
+      "id": "10,000 Maniacs",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://media.nj.com/indulge/photo/10000-maniacsjpg-1970b8abc8752f47.jpg"
+    },
+    {
+      "id": "10cc",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/10CC_-_TopPop_1974_2.png"
+    },
+    {
+      "id": "A Flock of Seagulls",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://i.dailymail.co.uk/i/pix/2013/07/23/article-0-1AF44F63000005DC-334_634x427.jpg"
+    },
+    {
+      "id": "Aaron Neville",
+      "decade": 1980,
+      "genre": "SOUL",
+      "image": "http://ecx.images-amazon.com/images/I/51LYgM9V7nL.jpg"
+    },
+    {
+      "id": "ABBA",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://nostalgic90s.com/wp-content/uploads/2015/10/abba-music-group.png"
+    },
+    {
+      "id": "ABC",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqhp5.jpg"
+    },
+    {
+      "id": "Above & Beyond",
+      "decade": 2010,
+      "genre": "CHILL",
+      "image": "http://static3.bigstockphoto.com/thumbs/9/2/1/large1500/12987428.jpg"
+    },
+    {
+      "id": "AC/DC",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://cdn.cnn.com/cnnnext/dam/assets/140416111347-restricted-01-acdc-horizontal-large-gallery.jpg"
+    },
+    {
+      "id": "Adele",
+      "decade": 2010,
+      "genre": "POP",
+      "image": "https://i.ytimg.com/vi/sql3dKRJy_E/maxresdefault.jpg"
+    },
+    {
+      "id": "Aerosmith",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/aerosmith.jpg"
+    },
+    {
+      "id": "Aimee Mann",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://cmgajcmusic.files.wordpress.com/2015/05/shaky-knees-jpeg-0172f.jpg"
+    },
+    {
+      "id": "Air",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/de/8f/06/de8f06e3b0bfa3b02ab9f6b0add3f726.jpg"
+    },
+    {
+      "id": "Air Supply",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Airsupply.jpg"
+    },
+    {
+      "id": "Al Green",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/cb/59/7e/cb597ecd05ad5f651bce970d3129da0a.jpg"
+    },
+    {
+      "id": "Al Stewart",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://i4.examiner.co.uk/incoming/article4895346.ece/ALTERNATES/s615/al-stewart-singer-songwriter-573898190.jpg"
+    },
+    {
+      "id": "Alanis Morissette",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alanis_Morissette_5-19-2014.jpg/220px-Alanis_Morissette_5-19-2014.jpg"
+    },
+    {
+      "id": "Alice Cooper",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://kcmq.com/wp-content/uploads/2016/02/Alice-Cooper-Band.jpg"
+    },
+    {
+      "id": "Ambrosia",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/The_music_group_Ambrosia_backstage_in_the_1970s.jpg/325px-The_music_group_Ambrosia_backstage_in_the_1970s.jpg"
+    },
+    {
+      "id": "America",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/America_US_music_group_1976.JPG"
+    },
+    {
+      "id": "Andrew Gold",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.andrewgold.com/images/hot-andrew-linda.jpg"
+    },
+    {
+      "id": "Anita Baker",
+      "decade": 1980,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/AnitaBaker_performing_in_2008_cropped.JPG"
+    },
+    {
+      "id": "Annie Lennox",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Annie_Lennox_SING_campaign,_Vienna_2010_b.jpg"
+    },
+    {
+      "id": "Aretha Franklin",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://cdn.pastemagazine.com/www/articles/Best%20Aretha%20Songs%20main.jpg"
+    },
+    {
+      "id": "Argent",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.bucksmusicgroup.com/wp-content/uploads/2011/04/Rod-Argent.jpg"
+    },
+    {
+      "id": "Art Garfunkel",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://cdn.pastemagazine.com/www/blogs/lists/simon%26garfunkelfeud.jpg"
+    },
+    {
+      "id": "Asia",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://1.bp.blogspot.com/-eHn1uE3NRkI/T8bzuHxCMkI/AAAAAAAAApc/hLTJBJL0bDI/s1600/PrnFoto-ASIA-2012-xpress-press.jpg"
+    },
+    {
+      "id": "Average White Band",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://2.bp.blogspot.com/-_eifGGT6-rw/UitrckN1HSI/AAAAAAAAJag/RSBuM7wP11s/s400/Average+White+Band.jpg"
+    },
+    {
+      "id": "B.B. King",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "http://www.bbkingblues.com/inc/artists/1285.jpg"
+    },
+    {
+      "id": "Bachman–Turner Overdrive",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/05/bto-mercury1.jpg"
+    },
+    {
+      "id": "Bad Company",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/5e/2e/7a/5e2e7a29f346ef53d8509ca4fe301757.jpg"
+    },
+    {
+      "id": "Badfinger",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/04/Badfinger.jpg"
+    },
+    {
+      "id": "Balligomingo",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "http://www.balligomingo.com/images/BalliSmilesSite.png"
+    },
+    {
+      "id": "Barbra Streisand",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Barbra_Streisand_-_1966.jpg/220px-Barbra_Streisand_-_1966.jpg"
+    },
+    {
+      "id": "Barry White",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Grand_Gala_du_Disque_Populaire_1974_-_Barry_White_927-0099.jpg"
+    },
+    {
+      "id": "Beck",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://www.joebeckmusicgroup.com/uploads/9/7/8/7/97874362/joe-beck-main-2_orig.jpg"
+    },
+    {
+      "id": "Bee Gees",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bee_Gees_1977.JPG"
+    },
+    {
+      "id": "Belinda Carlisle",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://media.gettyimages.com/photos/singer-belinda-carlisle-of-musical-group-the-gogos-and-moon-unit-at-picture-id50736352"
+    },
+    {
+      "id": "Ben E. King",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "http://c8.alamy.com/comp/A6RJ5R/drifters-the-us-vocal-band-rhythm-blues-2nd-cast-1958-with-ben-eking-A6RJ5R.jpg"
+    },
+    {
+      "id": "Bent",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "http://www.bestnewbands.com/wp_bnb/wp-content/uploads/2015/07/BEST-NEW-BANDS-Bent-Knee-2-21.jpg"
+    },
+    {
+      "id": "Bette Midler",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/e9/79/fa/e979fa23e71916eb753cdfecb24218c6.jpg"
+    },
+    {
+      "id": "Bic Runga",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Runga2_small.jpg/1200px-Runga2_small.jpg"
+    },
+    {
+      "id": "Big Audio Dynamite",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/E%3DMC%C2%B2_cover.jpeg/220px-E%3DMC%C2%B2_cover.jpeg"
+    },
+    {
+      "id": "Big Brother and the Holding Company",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Janis_Joplin_Big_Brother_and_the_Holding_Company.jpg"
+    },
+    {
+      "id": "Big Country",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Big_Country_promo_shot_BW001.jpg"
+    },
+    {
+      "id": "Bill Withers",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bill_Withers_1976.JPG"
+    },
+    {
+      "id": "Billy Idol",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://billyidol.net/wp-content/uploads/2014/08/band_slider1.jpg"
+    },
+    {
+      "id": "Billy Joel",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/b6/cd/a9/b6cda93a024d8509fa5b2f73e6034964.jpg"
+    },
+    {
+      "id": "Billy Ocean",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/dd/d6/e4/ddd6e4367eb7d766723a603d906a9b7b.jpg"
+    },
+    {
+      "id": "Billy Paul",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "http://www.billboard.com/files/media/Billy-Paul-1970s-billboard-650.jpg"
+    },
+    {
+      "id": "Billy Preston",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://static01.nyt.com/images/2006/06/07/arts/07preston.395.jpg"
+    },
+    {
+      "id": "Björk",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/singer-bjork-with-fellow-members-of-icelandic-band-the-sugarcubes-picture-id71886711"
+    },
+    {
+      "id": "Black Sabbath",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.metalsucks.net/wp-content/uploads/2014/11/Black-Sabbath-Best-Metal-Band-of-All-Time.jpg"
+    },
+    {
+      "id": "Blackmore's Night",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "http://www.newagemusicworld.com/wp-content/uploads/2011/06/Blackmores-Night-Concert-Band.jpg"
+    },
+    {
+      "id": "Blind Faith",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/One_blind_faith.jpg"
+    },
+    {
+      "id": "Blind Melon",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Blind_Melon_Group_Photo_Early.jpg"
+    },
+    {
+      "id": "Blondie",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/06/BlondieMichaelOchsArchives.jpg"
+    },
+    {
+      "id": "Blood, Sweat & Tears",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/10/56142115-Hulton-Archive.jpg"
+    },
+    {
+      "id": "Blue Öyster Cult",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/6/64/Blue_Oyster_Cult_1977_publicity_photo.jpg"
+    },
+    {
+      "id": "Blues Image",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Climax_Blues_Band_1974.JPG/230px-Climax_Blues_Band_1974.JPG"
+    },
+    {
+      "id": "Bo Diddley",
+      "decade": 1950,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/09/26/05/0926059b9edd68a2a49a78ba858139b1.jpg"
+    },
+    {
+      "id": "Bob Dylan",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://www.uofmusic.com/wp-content/uploads/2016/01/Bob_Dylan_and_The_Band_-_1974.jpg"
+    },
+    {
+      "id": "Bob Marley",
+      "decade": 1970,
+      "genre": "REGGAE",
+      "image": "http://www.bigfootevents.co.uk/Bigfoot/media/BigfootGallery/Images/Tributes/Bob-On-full-band.jpg"
+    },
+    {
+      "id": "Bob Seger",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/058/MI0000058494.jpg?partner=allrovi.com"
+    },
+    {
+      "id": "Bobbie Gentry",
+      "decade": 1960,
+      "genre": "COUNTRY",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/fb/32/ae/fb32ae523c1d62ea8afb2542655de1c0.jpg"
+    },
+    {
+      "id": "Bobby Darin",
+      "decade": 1960,
+      "genre": "CLASSIC",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/5b/53/a9/5b53a979c96c16579be243b1b93186f1.jpg"
+    },
+    {
+      "id": "Bobby Hebb",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/e8/9c/55/e89c5532b0d8167fa5af11c7efaac388.jpg"
+    },
+    {
+      "id": "Bobby Rydell",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://2.bp.blogspot.com/-9ezDM6Kqnd8/VpkxNgoBEHI/AAAAAAAACmU/t909HGWxqOQ/s1600/rydellcurrent.png"
+    },
+    {
+      "id": "Bon Iver",
+      "decade": 2010,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bon_Iver%40Stockholm.jpg/1200px-Bon_Iver%40Stockholm.jpg"
+    },
+    {
+      "id": "Bon Jovi",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bon_Jovi_1.jpg/1200px-Bon_Jovi_1.jpg"
+    },
+    {
+      "id": "Bonnie Raitt",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://www.bonnieraitt.com/sites/default/files/styles/large/public/BAND.jpg?itok=aSDnMSiB"
+    },
+    {
+      "id": "Bonobo",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "https://earmilk.com/wp-content/uploads/2016/11/bonobo2png.png"
+    },
+    {
+      "id": "Booker T. & the M.G.'s",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Booker_T._%26_the_M.G%27s.png"
+    },
+    {
+      "id": "Boston",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/02/Boston.jpg"
+    },
+    {
+      "id": "Boz Scaggs",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/BozSkaggs0449.jpg/220px-BozSkaggs0449.jpg"
+    },
+    {
+      "id": "Bread",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://www.cuneiformrecords.com/press/IdealBread_credit_BryanMurray_1.jpg"
+    },
+    {
+      "id": "Bruce Springsteen",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://img.wennermedia.com/article-leads-horizontal/rs-bruce-springsteen-cover-band-6591b9e8-38a2-4911-8b07-96d7ab317e3a.jpg"
+    },
+    {
+      "id": "Bruno Mars",
+      "decade": 2010,
+      "genre": "POP",
+      "image": "http://media.npr.org/assets/img/2013/07/23/174211335_wide-efd00042d583638eb974a22eaf8ff50a70db8a10-s900-c85.jpg"
+    },
+    {
+      "id": "Bryan Adams",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www.mercedes-benz-arena-berlin.de/assets/img/BAND_SHOT_01-0021_D.jpg"
+    },
+    {
+      "id": "Bryan Ferry",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bryanferrygf.JPG/660px-Bryanferrygf.JPG"
+    },
+    {
+      "id": "Buddy Holly",
+      "decade": 1950,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/44/2b/b2/442bb2b6394d39d96a2d1e16061e260e.jpg"
+    },
+    {
+      "id": "Buffalo Springfield",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://www.billboard.com/files/styles/article_main_image/public/media/richie-furay-press-2015-billboard-650.jpg"
+    },
+    {
+      "id": "Burton Cummings",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/29/84/26/2984267ca58a26248987384ffd4d18e3.jpg"
+    },
+    {
+      "id": "Cara Dillon",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "http://www.dakotacooks.com/wp-content/uploads/2010/12/Cara-Dillon-449x228.jpg"
+    },
+    {
+      "id": "Carl Perkins",
+      "decade": 1950,
+      "genre": "COUNTRY",
+      "image": "http://img.wennermedia.com/featured-promo-782/rs-97-carl-perkins.jpg"
+    },
+    {
+      "id": "Carly Simon",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/ab/65/74/ab6574ab98b287ab8228f372b425b677.jpg"
+    },
+    {
+      "id": "Carole King",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://static1.businessinsider.com/image/53ac4072eab8ea1a6ac21c23/9-hit-songs-you-had-no-idea-were-written-by-carole-king.jpg"
+    },
+    {
+      "id": "Carrie Underwood",
+      "decade": 2000,
+      "genre": "POP",
+      "image": "http://www.cmchatlive.com/scenic/wp-content/uploads/2014/09/CARRIE-PIC.png"
+    },
+    {
+      "id": "Cass Elliot",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Mamas_and_the_Papas_Ed_Sullivan_Show_1968.JPG"
+    },
+    {
+      "id": "Cat Stevens",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/9d/1f/b9/9d1fb9af1264e5e7f83e0b4fcf215294.jpg"
+    },
+    {
+      "id": "CeeLo Green",
+      "decade": 2000,
+      "genre": "POP",
+      "image": "http://www.nbc.com/the-tonight-show/content/sites/nbcutsjf/files/styles/bit_stacked_resized/public/images/2015/10/01/cee-lo-green.jpg?itok=0gOnnGcv"
+    },
+    {
+      "id": "Chad & Jeremy",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://media.gettyimages.com/photos/singer-chad-kroeger-the-music-group-nickelback-performs-during-their-picture-id57485308"
+    },
+    {
+      "id": "Charlie Daniels",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://sc-events.s3.amazonaws.com/4185063/main.jpg"
+    },
+    {
+      "id": "Charlie Rich",
+      "decade": 1960,
+      "genre": "COUNTRY",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/dc/da/c5/dcdac511c1aed5a7ab4e51eee1a5d2df.jpg"
+    },
+    {
+      "id": "Cheap Trick",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://c7.alamy.com/comp/FG0W77/cheap-trick-us-rock-group-about-1978-FG0W77.jpg"
+    },
+    {
+      "id": "Cher",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://media.gettyimages.com/photos/american-singer-and-actress-cher-and-the-popular-musical-group-the-5-picture-id82204811?s=594x594"
+    },
+    {
+      "id": "Chet Atkins",
+      "decade": 1950,
+      "genre": "COUNTRY",
+      "image": "http://media.gettyimages.com/photos/musicians-mark-knopfler-of-the-band-dire-straits-and-chet-atkins-on-picture-id544737931"
+    },
+    {
+      "id": "Chic",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqqvy.jpg"
+    },
+    {
+      "id": "Chicago",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/73/d1/98/73d19808134ef400f9e30c10aba2d49a.jpg"
+    },
+    {
+      "id": "Chris Isaak",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www2.pictures.gi.zimbio.com/Chris+Isaak+Warner+Music+Group+2007+Grammy+yEISyK5fra2l.jpg"
+    },
+    {
+      "id": "Chris Squire",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/singer-jon-davison-and-bass-guitarist-chris-squire-of-musical-group-picture-id150508401"
+    },
+    {
+      "id": "Christopher Cross",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://cmga360music.files.wordpress.com/2016/01/christopher-cross-1064.jpg"
+    },
+    {
+      "id": "Chuck Berry",
+      "decade": 1950,
+      "genre": "POP",
+      "image": "http://bestclassicbands.com/wp-content/uploads/2015/10/Chuck_Berry_1971.jpg"
+    },
+    {
+      "id": "Coldplay",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coldplay_Music_Midtown.jpg/220px-Coldplay_Music_Midtown.jpg"
+    },
+    {
+      "id": "Collective Soul",
+      "decade": 1990,
+      "genre": "SOUL",
+      "image": "https://i.pinimg.com/736x/28/64/02/2864024d0742e61369c941fdbcc2e7b1--music-songs-songs-album.jpg"
+    },
+    {
+      "id": "Commodores",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://s-media-cache-ak0.pinimg.com/236x/66/5b/82/665b823798453187d2ad87616cca3090.jpg"
+    },
+    {
+      "id": "Conway Twitty",
+      "decade": 1960,
+      "genre": "COUNTRY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpgFhBcufklgHFWYZPJLloK22cxL7JvZG8Bu-YP04Ly-QYh4uw4w"
+    },
+    {
+      "id": "Counting Crows",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://diffuser.fm/files/2013/05/counting-Scott-Gries.jpg"
+    },
+    {
+      "id": "Cream",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Cream_Clapton_Bruce_Baker_1960s.jpg"
+    },
+    {
+      "id": "Creedence Clearwater Revival",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Creedence_Clearwater_Revival_1968.jpg"
+    },
+    {
+      "id": "Crosby, Stills, Nash & Young",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Crosby_Stills_Nash_and_Young_1970.JPG"
+    },
+    {
+      "id": "Crowded House",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crowded-house1.JPG/220px-Crowded-house1.JPG"
+    },
+    {
+      "id": "Culture Club",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/d9/e4/86/d9e48601c2ff631283ba722f06c310fc.jpg"
+    },
+    {
+      "id": "Curtis Mayfield",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/2f/ad/54/2fad5406b816e3814b98c8699068198d.jpg"
+    },
+    {
+      "id": "Cyndi Lauper",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://media.gettyimages.com/photos/singer-cyndi-lauper-universal-music-group-ceo-jim-urie-and-singer-picture-id100220268"
+    },
+    {
+      "id": "Damian Marley",
+      "decade": 2000,
+      "genre": "REGGAE",
+      "image": "http://onpointpress.net/wp-content/uploads/2015/06/image.jpg"
+    },
+    {
+      "id": "Dan Fogelberg",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dan_Fogelberg_1974.JPG/220px-Dan_Fogelberg_1974.JPG"
+    },
+    {
+      "id": "Dan Hill",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://danhill.com/wp-content/uploads/2016/11/dan-hill1-660x290.jpg"
+    },
+    {
+      "id": "Dave Edmunds",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/DaveEdmunds1980crop.jpg/220px-DaveEdmunds1980crop.jpg"
+    },
+    {
+      "id": "Dave Mason",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dave_Mason_4_-_1974.jpg/190px-Dave_Mason_4_-_1974.jpg"
+    },
+    {
+      "id": "Dave Matthews Band",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaveMatthewsTimReynoldsAmherst2007.jpg/220px-DaveMatthewsTimReynoldsAmherst2007.jpg"
+    },
+    {
+      "id": "David Bowie",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/5e/19/22/5e1922a904acd274abf665adbe864071.jpg"
+    },
+    {
+      "id": "David Byrne",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/david-byrne-singer-for-the-pop-group-the-talking-heads-wears-a-suit-picture-id635763225"
+    },
+    {
+      "id": "David Crosby",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://cdn.pastemagazine.com/www/articles/BestCrosbySongsMain.jpg"
+    },
+    {
+      "id": "David Gates",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/David_Gates.png/250px-David_Gates.png"
+    },
+    {
+      "id": "David Gilmour",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://media.hollywood.com/images/638x425/1901995.jpg"
+    },
+    {
+      "id": "David Guetta",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "https://static.spin.com/files/2015/11/david-guetta-sia-bang-my-head-music-video.png"
+    },
+    {
+      "id": "David Lee Roth",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/David_Lee_Roth_-_Van_Halen.jpg"
+    },
+    {
+      "id": "Deep Purple",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/3c/48/fe3c482deabb93e668c3814010f2c1a3.jpg"
+    },
+    {
+      "id": "Def Leppard",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/06/def-Hulton-Archive.jpg"
+    },
+    {
+      "id": "Del Shannon",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://i.onionstatic.com/avclub/4160/77/16x9/960.jpg"
+    },
+    {
+      "id": "Delerium",
+      "decade": 1980,
+      "genre": "CHILL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Delirium_Un_disco_per_l'estate.jpg"
+    },
+    {
+      "id": "Depeche Mode",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www.top10songs.org/wp-content/uploads/2016/07/Best-Top-10-Depeche-mode-Songs-Band-Member-Real-Name-Age-Height-Birth-Date.jpg"
+    },
+    {
+      "id": "Derek and the Dominos",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Derek_and_the_Dominos.png"
+    },
+    {
+      "id": "Diana Ross",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://media.gettyimages.com/photos/diana-ross-and-the-supremes-november-1968-music-group-singer-picture-id599289082"
+    },
+    {
+      "id": "Dick Dale",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dick_Dale_Middle_East_May_2005.jpg/250px-Dick_Dale_Middle_East_May_2005.jpg"
+    },
+    {
+      "id": "Dickey Betts",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://assets.rollingstone.com/assets/2014/gallery/the-allman-brothers-band-through-the-years-20140114/dickey-0457966/128227/_original/1035x1035-allman-11-1800-1389643717.jpg"
+    },
+    {
+      "id": "Dido",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/13/58/ba/1358bac5d8449b7a7ec39610d6bf23a4.jpg"
+    },
+    {
+      "id": "Dion DiMucci",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://media.gettyimages.com/photos/dion-dimucci-dion-dimucci-at-a-homeless-benefit-picture-id485102969"
+    },
+    {
+      "id": "Dionne Warwick",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/3e/f0/23/3ef0237f7136f52d5c433f5f2a9cfd55.jpg"
+    },
+    {
+      "id": "Dire Straits",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/07/direwarnerbros.jpg"
+    },
+    {
+      "id": "Dixie Chicks",
+      "decade": 1990,
+      "genre": "COUNTRY",
+      "image": "https://s-media-cache-ak0.pinimg.com/236x/17/e5/48/17e54804fd45226a8e157729b5f0c20f.jpg"
+    },
+    {
+      "id": "Dobie Gray",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://i.ytimg.com/vi/OOWO--z1S8A/hqdefault.jpg"
+    },
+    {
+      "id": "Dolly Parton",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://www.allaccess.com/mail/eblasts/Dolly_Parton/images/dolly_parton_02.jpg"
+    },
+    {
+      "id": "Don Henley",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Eagles.jpg"
+    },
+    {
+      "id": "Don McLean",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://i.dailymail.co.uk/i/pix/2016/06/21/14/3583B6B600000578-3651662-image-m-10_1466516407176.jpg"
+    },
+    {
+      "id": "Donna Summer",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://static01.nyt.com/images/2012/05/18/arts/music/18summerspan/18summer-jumbo.jpg"
+    },
+    {
+      "id": "Donnie Iris",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Donnie_Iris_South_Park.jpg"
+    },
+    {
+      "id": "Donovan",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/236x/61/24/c4/6124c4f44eded6b2a1ec863f43910dff.jpg"
+    },
+    {
+      "id": "Dorian Concept",
+      "decade": 2010,
+      "genre": "CHILL",
+      "image": "http://c0364946.cdn2.cloudfiles.rackspacecloud.com/25998-1.jpg"
+    },
+    {
+      "id": "Dr. Hook & the Medicine Show",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.canadianclassicrock.com/wp/wp-content/uploads/2012/01/hook1.jpg"
+    },
+    {
+      "id": "Duane Eddy",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://www.thecliffedge.com/wp-content/uploads/2013/05/duane-eddy-corbis-630-80.jpg"
+    },
+    {
+      "id": "Duran Duran",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://static.stereogum.com/uploads/2015/09/duranduran.jpg"
+    },
+    {
+      "id": "Dusty Springfield",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/3c/75/7e/3c757e85e57f12e83fcd90b34b3bd0a6.jpg"
+    },
+    {
+      "id": "Eagles",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/a2/b9/72/a2b9726ae5497f6b2891b3a9878f8853.jpg"
+    },
+    {
+      "id": "Earth, Wind & Fire",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "http://img.wennermedia.com/social/rs-226972-GettyImages-74269926.jpg"
+    },
+    {
+      "id": "Echo & the Bunnymen",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://rockrevoltmagazine.com/wp-content/uploads/2015/11/11800038_878510542202589_2171701926305634858_n.jpg"
+    },
+    {
+      "id": "Eddie Cochran",
+      "decade": 1950,
+      "genre": "ROCK",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqrmq.jpg"
+    },
+    {
+      "id": "Eddie Kendricks",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/33/Temptations-group-pic.jpg"
+    },
+    {
+      "id": "Edie Brickell",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/21/f1/35/21f135fb9014aaf59d5408ca4a0dc528.jpg"
+    },
+    {
+      "id": "Edward Sharpe and the Magnetic Zeros",
+      "decade": 2010,
+      "genre": "ROCK",
+      "image": "https://boomingmusicscene.files.wordpress.com/2012/05/edward-sharpe-the-magnetic-zeros-band.jpg"
+    },
+    {
+      "id": "Electric Light Orchestra",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2012/12/elo-Hulton-Archive-getty.jpg"
+    },
+    {
+      "id": "Elliott Smith",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://cdn.pitchfork.com/news/66113/791f5434.png"
+    },
+    {
+      "id": "Elton John",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://www.billboard.com/files/styles/article_main_image/public/stylus/2512859-elvis-bob-birch-617-409.jpg"
+    },
+    {
+      "id": "Elvin Bishop",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://elvinbishopmusic.com/elvin-bishop-band-web.jpg"
+    },
+    {
+      "id": "Elvis Costello",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/a0/19/1e/a0191e6e898bf73dfe7e36e131fcd55c.jpg"
+    },
+    {
+      "id": "Elvis Presley",
+      "decade": 1950,
+      "genre": "ROCK",
+      "image": "http://www.elvispresleymusic.com.au/pictures/img/elvis/60s/elvis-band-american-studios-1969.jpg"
+    },
+    {
+      "id": "Emerson, Lake & Palmer",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/03/Emerson-Lake-Palmer.jpg?w=630&h=420&zc=1&s=0&a=t&q=89"
+    },
+    {
+      "id": "Emika",
+      "decade": 2010,
+      "genre": "CHILL",
+      "image": "https://usercontent1.hubstatic.com/12938836_f496.jpg"
+    },
+    {
+      "id": "Emmylou Harris",
+      "decade": 1970,
+      "genre": "COUNTRY",
+      "image": "https://fanart.tv/fanart/music/35ef61ca-43db-4772-ba27-0489e9ebcb69/albumcover/angel-band-51cc24fd743f8.jpg"
+    },
+    {
+      "id": "England Dan & John Ford Coley",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/England_Dan_and_John_Ford_Coley_1976.jpg"
+    },
+    {
+      "id": "Enya",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www.irishmusicdaily.com/wp-content/uploads/2013/06/Clannad.jpg"
+    },
+    {
+      "id": "Eric Burdon",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/2b/77/26/2b7726ccd81197e03c68fec313bfc85d.jpg"
+    },
+    {
+      "id": "Eric Carmen",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://www.ericcarmen.com/img/eric-raspberries.jpg"
+    },
+    {
+      "id": "Eric Clapton",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Cream_Clapton_Bruce_Baker_1960s.jpg"
+    },
+    {
+      "id": "Eurythmics",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/e3/f5/55/e3f555fe0f77ece89a4bbb8adc500af7.jpg"
+    },
+    {
+      "id": "Everything but the Girl",
+      "decade": 1980,
+      "genre": "CHILL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Everything_but_the_Girl.jpg"
+    },
+    {
+      "id": "Faces",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://i.ytimg.com/vi/7Nq-zoOIyfg/maxresdefault.jpg"
+    },
+    {
+      "id": "Faithless",
+      "decade": 1990,
+      "genre": "CHILL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Faithless_Orange_Music_Haifa_2005_01.jpg/267px-Faithless_Orange_Music_Haifa_2005_01.jpg"
+    },
+    {
+      "id": "Fats Domino",
+      "decade": 1950,
+      "genre": "POP",
+      "image": "https://phillipkay.files.wordpress.com/2014/06/2-fats-and-band.jpg"
+    },
+    {
+      "id": "Fine Young Cannibals",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqpms.jpg"
+    },
+    {
+      "id": "Fiona Apple",
+      "decade": 1990,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Fiona-Apple.jpg"
+    },
+    {
+      "id": "Five for Fighting",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://i.ytimg.com/vi/rIomOHTkzY0/maxresdefault.jpg"
+    },
+    {
+      "id": "Five Stairsteps",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://static01.nyt.com/images/2013/05/30/world/BURKE-obit/BURKE-obit-blog427.jpg"
+    },
+    {
+      "id": "Fleetwood Mac",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Fleetwood_Mac_2009.jpg"
+    },
+    {
+      "id": "Florence and the Machine",
+      "decade": 2010,
+      "genre": "ROCK",
+      "image": "https://majomnd.files.wordpress.com/2012/02/20120209-142425.jpg"
+    },
+    {
+      "id": "Flunk",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "http://www.flunkmusic.com/Graphix/thesongswesing_digital_small.jpg"
+    },
+    {
+      "id": "Foghat",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.tntbooking.com/bios/images/foghat2.jpg"
+    },
+    {
+      "id": "Foreigner",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://images2.dallasobserver.com/imager/u/original/7061777/foreigner.jpg"
+    },
+    {
+      "id": "Foster the People",
+      "decade": 2010,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/2011_MuchMusic_Video_Awards_-_Foster_the_People.jpg"
+    },
+    {
+      "id": "Four Tops",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Grand_Gala_du_Disque_Populaire_1968_-_The_Four_Tops_1.jpg"
+    },
+    {
+      "id": "Frank Sinatra",
+      "decade": 1940,
+      "genre": "CLASSIC",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Frank_Sinatra_%2757.jpg"
+    },
+    {
+      "id": "Frankie Lymon",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Frankie_Lymon_and_the_Teenagers.jpg"
+    },
+    {
+      "id": "Frankie Valli",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/7/7f/Frankie_Valli_and_The_Four_Seasons.jpg"
+    },
+    {
+      "id": "Freda Payne",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Band_of_Gold_-_Freda_Payne.jpg/220px-Band_of_Gold_-_Freda_Payne.jpg"
+    },
+    {
+      "id": "Frou Frou",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/Frou_Frou_frou_7006.jpg"
+    },
+    {
+      "id": "Gary Numan",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/50/45/f1/5045f1f0fbe27b78c1bdaa5046fc9a72.jpg"
+    },
+    {
+      "id": "Gary Puckett & The Union Gap",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/d2/a3/f7/d2a3f781fb63e7b37eb2ff9e62ced597.jpg"
+    },
+    {
+      "id": "Gary Wright",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gary_Wright.jpg/1200px-Gary_Wright.jpg"
+    },
+    {
+      "id": "Gene Pitney",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Gene_Pitney_1967.JPG"
+    },
+    {
+      "id": "General Public",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/General_Public.jpg"
+    },
+    {
+      "id": "Genesis",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.progarchives.com/progressive_rock_discography_band/1.jpg"
+    },
+    {
+      "id": "George Benson",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "http://images37.concordmusicgroup.com/albums/300x300/CRE-34268-02.jpg"
+    },
+    {
+      "id": "George Clinton",
+      "decade": 1980,
+      "genre": "SOUL",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/da/ee/14/daee14a41fcffd3ae570ab1d515ea3c9.jpg"
+    },
+    {
+      "id": "George Harrison",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://i2.mirror.co.uk/incoming/article6961920.ece/ALTERNATES/s615b/PAY-Ringo-Starr-with-his-drum-kit.jpg"
+    },
+    {
+      "id": "George Jones",
+      "decade": 1950,
+      "genre": "COUNTRY",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/George_JonesCFF.JPG/1200px-George_JonesCFF.JPG"
+    },
+    {
+      "id": "George Michael",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://cdn.cnn.com/cnnnext/dam/assets/161226140624-22-george-michael-restricted-super-169.jpg"
+    },
+    {
+      "id": "Gerry and the Pacemakers",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gerry_and_the_Pacemakers_group_photo_1964.JPG"
+    },
+    {
+      "id": "Gerry Rafferty",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/236x/f2/e5/7c/f2e57ce20ab3f5f6233a146cdadc9bc5.jpg"
+    },
+    {
+      "id": "Gladys Knight & the Pips",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://jazzinphoto.files.wordpress.com/2012/11/singer-gladys-knight-and-members-of-her-musical-group-the-pip-david-mcgough-1983.jpeg"
+    },
+    {
+      "id": "Glen Campbell",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://img.wennermedia.com/article-leads-horizontal/rs-169196-455103258.jpg"
+    },
+    {
+      "id": "Glenn Frey",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www.trbimg.com/img-569edc79/turbine/la-et-ms-glenn-frey-ronstadt-20160120"
+    },
+    {
+      "id": "Gloria Estefan",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://cp91279.biography.com/1000509261001/1000509261001_1092811998001_Bio-Biography-Gloria-Estefan-SF.jpg"
+    },
+    {
+      "id": "Gloria Gaynor",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://a1-images.myspacecdn.com/images03/34/b41df2e5fd694253b1ee92cf5a188466/300x300.jpg"
+    },
+    {
+      "id": "Goldfrapp",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "http://c8.alamy.com/comp/GMMMKT/singer-alison-goldfrapp-of-british-music-group-goldfrapp-performs-GMMMKT.jpg"
+    },
+    {
+      "id": "Gordon Lightfoot",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/GordonLightfoot_Interlochen.jpg"
+    },
+    {
+      "id": "Graham Parker",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Graham_parker_by_Steve_Bachman.jpg/170px-Graham_parker_by_Steve_Bachman.jpg"
+    },
+    {
+      "id": "Gram Parsons",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/00/df/7e/00df7e9f9e1b613d224c4c450c6caaec.jpg"
+    },
+    {
+      "id": "Grand Funk Railroad",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/24/5f/73/245f738c0410eb1fd298ec79626de9e4.jpg"
+    },
+    {
+      "id": "Grateful Dead",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2012/10/Grateful-Dead.jpg"
+    },
+    {
+      "id": "Green Day",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://i.usatoday.net/communitymanager/_photos/game-hunters/2009/12/14/green-dayx-large.jpg"
+    },
+    {
+      "id": "Gregg Allman",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://cdn-s3.allmusic.com/release-covers/500/0000/825/0000825423.jpg"
+    },
+    {
+      "id": "Guns N' Roses",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://cp91279.biography.com/1000509261001/1000509261001_2127498997001_BIO-Biography-Guns-N-Roses-LF.jpg"
+    },
+    {
+      "id": "Gwen Stefani",
+      "decade": 2000,
+      "genre": "POP",
+      "image": "http://c8.alamy.com/comp/GTWX6G/singer-gwen-stefani-of-the-group-no-doubt-performs-bathwater-at-the-GTWX6G.jpg"
+    },
+    {
+      "id": "Hall & Oates",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://media.gettyimages.com/photos/singer-becky-jean-williams-of-electronic-music-group-late-night-at-picture-id185179777"
+    },
+    {
+      "id": "Hank Williams",
+      "decade": 1950,
+      "genre": "COUNTRY",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/c1/c3/b4/c1c3b4d3085d13b75bc38837b3a307db.jpg"
+    },
+    {
+      "id": "Harold Melvin & the Blue Notes",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p02z70xc.jpg"
+    },
+    {
+      "id": "Harry Chapin",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Harry_Chapin_curtain_call.jpg"
+    },
+    {
+      "id": "Harry Nilsson",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://secure.i.telegraph.co.uk/multimedia/archive/02626/Harry_Nilsson__2626004c.jpg"
+    },
+    {
+      "id": "Heart",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/03/73993075.jpg"
+    },
+    {
+      "id": "Henry Mancini",
+      "decade": 1950,
+      "genre": "CLASSIC",
+      "image": "http://www.lasplash.com/uploads//1/bigband.jpg"
+    },
+    {
+      "id": "Herb Alpert",
+      "decade": 1960,
+      "genre": "CLASSIC",
+      "image": "http://c8.alamy.com/comp/BRAE7J/herb-alpert-and-his-tijuana-brass-us-music-group-in-1969-BRAE7J.jpg"
+    },
+    {
+      "id": "Herman's Hermits",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/12/0b/c5/120bc538497d89850e2c56c4602692a7.jpg"
+    },
+    {
+      "id": "Hot Chocolate",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqsfk.jpg"
+    },
+    {
+      "id": "Howard Jones",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Howard_Jones_%28musician%29.JPG/1200px-Howard_Jones_%28musician%29.JPG"
+    },
+    {
+      "id": "Huey Lewis and the News",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://d1ya1fm0bicxg1.cloudfront.net/2016/02/promoted-media_56cdd9f5bed36.jpg"
+    },
+    {
+      "id": "Humble Pie",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Humble_Pie_1974.JPG"
+    },
+    {
+      "id": "Iggy Pop",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://media.pitchfork.com/photos/592c55e05e6ef95969326c32/2:1/w_790/995a5822.jpg"
+    },
+    {
+      "id": "INXS",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/82/a2/bf/82a2bf0f758071fc757595bd161beef3.jpg"
+    },
+    {
+      "id": "Iron Butterfly",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://static01.nyt.com/images/2012/12/23/nyregion/obit-DORMAN/obit-DORMAN-superJumbo.jpg"
+    },
+    {
+      "id": "Isaac Hayes",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.idfPVN1JQq4-ZPegNc4j6QHaFD&w=300&h=204&c=7&o=5&pid=1.7"
+    },
+    {
+      "id": "It's a Beautiful Day",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Its_a_Beautiful_Day_1972.JPG"
+    },
+    {
+      "id": "Ivy",
+      "decade": 1990,
+      "genre": "CHILL",
+      "image": "https://i.scdn.co/image/04f148bf82deab1fa742364645f411418ba3dc04"
+    },
+    {
+      "id": "Jackie Wilson",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "http://hotlivemusic.com/wp-content/uploads/2012/03/Jackie-Wilson-Says-Essex.jpg"
+    },
+    {
+      "id": "Jackson Browne",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.trbimg.com/img-57d082b7/turbine/la-1473282860-snap-photo/650/650x366"
+    },
+    {
+      "id": "Jakob Dylan",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "http://i2.cdn.cnn.com/cnnnext/dam/assets/121003033643-the-wallflowers-band-horizontal-large-gallery.jpg"
+    },
+    {
+      "id": "James Brown",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/11/James_Brown_and_Flames.jpg"
+    },
+    {
+      "id": "James Taylor",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/James_Taylor_-_Columbia.jpg"
+    },
+    {
+      "id": "Jane's Addiction",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www.trbimg.com/img-54230090/turbine/bal-janes-addiction-20140924"
+    },
+    {
+      "id": "Janet Jackson",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://i.ytimg.com/vi/qH-rPt1ftSo/maxresdefault.jpg"
+    },
+    {
+      "id": "Janis Joplin",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://cp91279.biography.com/BIO_Mini-Bios_0_Janis-Joplin_150547_SF_HD_768x432-16x9.jpg"
+    },
+    {
+      "id": "Jeff Beck",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Jeff_beck_group.jpg/252px-Jeff_beck_group.jpg"
+    },
+    {
+      "id": "Jefferson Airplane",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/Jefferson_Airplane.jpg"
+    },
+    {
+      "id": "Jefferson Starship",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Jefferson_Starship_photo_1976.JPG"
+    },
+    {
+      "id": "Jem",
+      "decade": 2000,
+      "genre": "POP",
+      "image": "http://jem-music.com/wp-content/uploads/2016/06/Jem-Down-To-Earth.jpg"
+    },
+    {
+      "id": "Jerry Lee Lewis",
+      "decade": 1960,
+      "genre": "CLASSIC",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/50/d5/dc/50d5dce019354c7d13367526c087194a.jpg"
+    },
+    {
+      "id": "Jesse Colin Young",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jesse_Colin_Young.png/220px-Jesse_Colin_Young.png"
+    },
+    {
+      "id": "Jethro Tull",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/07/Hulton-Archive-Stringer.jpg"
+    },
+    {
+      "id": "Jim Croce",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/38/94/c5/3894c5ec4810d54361edd17ac7ba014a.jpg"
+    },
+    {
+      "id": "Jimi Hendrix",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://img.wennermedia.com/article-leads-horizontal/rs-jimi-hendrix-4c252fb4-d5d2-42ad-b1e0-4f212e98482f.jpg"
+    },
+    {
+      "id": "Jimmy Buffett",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://i.ytimg.com/vi/CICf8xoLyG8/hqdefault.jpg"
+    },
+    {
+      "id": "Jimmy Cliff",
+      "decade": 1970,
+      "genre": "REGGAE",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jimmy_Cliff_-_Festival_du_Bout_du_Monde_2012_-_022.jpg/1200px-Jimmy_Cliff_-_Festival_du_Bout_du_Monde_2012_-_022.jpg"
+    },
+    {
+      "id": "Jimmy Page",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://louisvilleleopardpercussionists.com/wp-content/uploads/2016/04/Jimmy-Page-2.jpg"
+    },
+    {
+      "id": "Jimmy Webb",
+      "decade": 1970,
+      "genre": "CLASSIC",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51gTP8IWWKL.jpg"
+    },
+    {
+      "id": "Joan Baez",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Joan_Baez_Bob_Dylan.jpg"
+    },
+    {
+      "id": "Joan Jett",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://www.desktopimages.org/pictures/2013/0519/1/orig_157557.jpg"
+    },
+    {
+      "id": "Joe Cocker",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.0Jvsn_74iIbsLn5NcwG-IgHaFi&w=217&h=160&c=7&o=5&pid=1.7"
+    },
+    {
+      "id": "Joe Jackson",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Joe_Jackson2.jpg/220px-Joe_Jackson2.jpg"
+    },
+    {
+      "id": "Joe Strummer",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/singer-joe-strummer-of-english-punk-group-the-clash-brandishing-a-picture-id112055713"
+    },
+    {
+      "id": "Joe Walsh",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2012/11/Walsh2.jpg"
+    },
+    {
+      "id": "John Denver",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/John_Denver_1973.jpg"
+    },
+    {
+      "id": "John Fogerty",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://cdn.pastemagazine.com/www/blogs/lists/creedence-clearwater-revival-4f623276486b9.jpg"
+    },
+    {
+      "id": "John Hiatt",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://images.equipboard.com/uploads/user/image/9994/big_john-hiatt.jpg?v=1526329875"
+    },
+    {
+      "id": "John Lennon",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://c8.alamy.com/comp/B9D228/sculpture-of-famous-british-composer-and-singer-john-lennon-co-founder-B9D228.jpg"
+    },
+    {
+      "id": "John Mayall",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://cps-static.rovicorp.com/3/JPG_500/MI0002/439/MI0002439653.jpg?partner=allrovi.com"
+    },
+    {
+      "id": "John Mayer",
+      "decade": 2000,
+      "genre": "POP",
+      "image": "https://www.billboard.com/files/media/John-Mayer-performs-show-emmys-2016-billboard-1548.jpg"
+    },
+    {
+      "id": "John Mellencamp",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/82/e5/86/82e5863bc2d1e9deec902549367f9d48.jpg"
+    },
+    {
+      "id": "Johnny Burnette",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/videos/johnny-burnette-his-rockabilly-trio-performing-lonesome-train-on-video-id2035-192?s=640x640"
+    },
+    {
+      "id": "Johnny Cash",
+      "decade": 1950,
+      "genre": "COUNTRY",
+      "image": "http://cp91279.biography.com/Johnny-Cash_The-Man-in-Black_HD_768x432-16x9.jpg"
+    },
+    {
+      "id": "Johnny Rivers",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/12/65/bd/1265bd758a7bc033996ea9e961dfd04c.jpg"
+    },
+    {
+      "id": "Jon Anderson",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/6c/38/1f/6c381f5e3d8c33ecb5401bbc44d75140.jpg"
+    },
+    {
+      "id": "Jonathan Cain",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://www.liberty.edu/media/1617/2017/jan/jonathan-cain-journey-liberty-university-convocation-201701231053JE.jpg"
+    },
+    {
+      "id": "Joni Mitchell",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://urbanmilwaukee.com/wp-content/uploads/2017/08/1974_Joni_Mitchell.jpg"
+    },
+    {
+      "id": "José Feliciano",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.8e-ZItTb39oj7jincLZYRAHaFj&w=260&h=195&c=7&o=5&pid=1.7"
+    },
+    {
+      "id": "José González",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "https://i.ytimg.com/vi/Ag-OIlEN00M/maxresdefault.jpg"
+    },
+    {
+      "id": "Journey",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Journey_publicity_photo_2013.jpg"
+    },
+    {
+      "id": "Joy Division",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://img.wennermedia.com/featured-promo-782/rs-239-joy-division.jpg"
+    },
+    {
+      "id": "Judy Collins",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/english-folk-and-ballad-singer-royston-wood-of-the-folk-vocal-group-picture-id152368567"
+    },
+    {
+      "id": "Julian Lennon",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/73/61/06/73610616104b52fed345343953789854.jpg"
+    },
+    {
+      "id": "Justin Timberlake",
+      "decade": 2000,
+      "genre": "POP",
+      "image": "http://cp91279.biography.com/Justin-Timberlake_N-Sync-Fans_HD_768x432-16x9.jpg"
+    },
+    {
+      "id": "Kansas",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/06/header1.jpg"
+    },
+    {
+      "id": "Kate Bush",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqptv.jpg"
+    },
+    {
+      "id": "Kate Havnevik",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kate-havnevik.jpg/220px-Kate-havnevik.jpg"
+    },
+    {
+      "id": "Keane",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "http://i.dailymail.co.uk/i/pix/2012/05/04/article-2139306-079B6588000005DC-848_634x344.jpg"
+    },
+    {
+      "id": "Kelly Rowland",
+      "decade": 2000,
+      "genre": "SOUL",
+      "image": "https://www.bellanaija.com/wp-content/uploads/2016/05/GettyImages-533631890.jpg"
+    },
+    {
+      "id": "Kenny Loggins",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.dailyherald.com/storyimage/DA/20131203/entlife/712039970/AR/0/AR-712039970.jpg&updated=201312030610&MaxW=800&maxH=800&noborder"
+    },
+    {
+      "id": "Kenny Rogers",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://seventiesmusic.files.wordpress.com/2015/04/kenny-rogers-and-the-first-edition-2.jpg"
+    },
+    {
+      "id": "Kenny Rogers and The First Edition",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p04xg51d.jpg"
+    },
+    {
+      "id": "Kim Wilde",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/a/a2/Kim_Wilde_2014.jpg"
+    },
+    {
+      "id": "King Crimson",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://seventiesmusic.files.wordpress.com/2013/11/roxy-3.jpg"
+    },
+    {
+      "id": "Kool & the Gang",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/51/51/4a/51514a7ea626fde84ea604464a66a7dc.jpg"
+    },
+    {
+      "id": "Kris Kristofferson",
+      "decade": 1970,
+      "genre": "COUNTRY",
+      "image": "http://tasteofcountry.com/files/2016/04/kris-kristofferson-top-career-songs.jpg?w=630&h=420&zc=1&s=0&a=t&q=89"
+    },
+    {
+      "id": "Labelle",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/23/e1/b2/23e1b2b89c9abe8352fd784406463077.jpg"
+    },
+    {
+      "id": "Lady Gaga",
+      "decade": 2000,
+      "genre": "POP",
+      "image": "https://cdn.cnn.com/cnnnext/dam/assets/131104023949-girls-generation-pink-horizontal-large-gallery.jpg"
+    },
+    {
+      "id": "Lana Del Rey",
+      "decade": 2010,
+      "genre": "CHILL",
+      "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0337032.jpg"
+    },
+    {
+      "id": "Led Zeppelin",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/LedZeppelinmontage.jpg"
+    },
+    {
+      "id": "Lenny Kravitz",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://www.purehoneymagazine.com/wp-content/uploads/2014/09/Soundcheck.LennyKravitz-37.jpg"
+    },
+    {
+      "id": "Leo Sayer",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://www.demonmusicgroup.co.uk/wp-content/uploads/2016/02/LEOSINGBOX01-Leo-Sayer-Box-Front-STICKER.jpg"
+    },
+    {
+      "id": "Leonard Cohen",
+      "decade": 1960,
+      "genre": "CLASSIC",
+      "image": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2016/11/LeonardCohen_GettyImages-107206110.jpg"
+    },
+    {
+      "id": "Lesley Gore",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://www.ecrmusicgroup.com/wp-content/uploads/2014/12/lesley-gore-ecr-music-group-2.jpg"
+    },
+    {
+      "id": "Letters to Cleo",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://www.vanyaland.com/wp-content/uploads/2016/02/LettersToCleo.jpg"
+    },
+    {
+      "id": "Level 42",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://www.bbcamerica.com/wp-content/blogs.dir/assets/300x245_level42.jpg"
+    },
+    {
+      "id": "Lily Allen",
+      "decade": 2000,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/80/63/ec/8063ec0bb077ab1c16b60cc7b8ad871d.jpg"
+    },
+    {
+      "id": "Linda Ronstadt",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.trbimg.com/img-569edc79/turbine/la-et-ms-glenn-frey-ronstadt-20160120"
+    },
+    {
+      "id": "Lindsey Buckingham",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://i.dailymail.co.uk/i/pix/2013/12/26/article-2529544-1A4C319F00000578-654_634x540.jpg"
+    },
+    {
+      "id": "Lionel Richie",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://entertainment.sltrib.com/img/uploads/articles/article57939922_900446.jpg"
+    },
+    {
+      "id": "Little Feat",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.slate.com/content/dam/slate/blogs/browbeat/2014/03/05/little_feat_10_best_songs_from_all_that_you_dream_to_willin/little_feat_1975_1.jpg.CROP.promovar-mediumlarge.jpg"
+    },
+    {
+      "id": "Little Richard",
+      "decade": 1950,
+      "genre": "SOUL",
+      "image": "http://media.gettyimages.com/photos/rock-and-roll-pioneer-little-richard-preaches-to-a-small-group-in-a-picture-id129594412"
+    },
+    {
+      "id": "Lobo",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lobo_-_TopPop_1973_04.png/220px-Lobo_-_TopPop_1973_04.png"
+    },
+    {
+      "id": "Loggins and Messina",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Loggins_and_Messina_1974.JPG/240px-Loggins_and_Messina_1974.JPG"
+    },
+    {
+      "id": "Looking Glass",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.superseventies.com/9_72.gif"
+    },
+    {
+      "id": "Loretta Lynn and Conway Twitty",
+      "decade": 1970,
+      "genre": "COUNTRY",
+      "image": "https://i.ytimg.com/vi/UjgC9Ndcwgw/hqdefault.jpg"
+    },
+    {
+      "id": "Los Lobos",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://www.vgculturalcenter.com/images/event_images/event_photo-33851-los-lobos.jpg"
+    },
+    {
+      "id": "Lou Christie",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lou_Christie.png"
+    },
+    {
+      "id": "Lou Rawls",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "http://is2.mzstatic.com/image/thumb/Music/v4/35/40/fb/3540fb5a-3e5d-26b3-40aa-01366c222a80/source/1200x630bf.jpg"
+    },
+    {
+      "id": "Lou Reed",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/10/Reed.jpg"
+    },
+    {
+      "id": "Lucinda Williams",
+      "decade": 1980,
+      "genre": "COUNTRY",
+      "image": "http://musiccitynashville.org/wp-content/uploads/2015/06/fa-2015-06-28-lucinda-williams-01.jpg"
+    },
+    {
+      "id": "Lukas Graham",
+      "decade": 2010,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/e2/18/c3/e218c30f2273cff6380d62bf4f9e6256.jpg"
+    },
+    {
+      "id": "Lulu",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://media.gettyimages.com/photos/from-left-pop-singer-lulu-her-husband-maurice-gibb-of-the-musical-picture-id147954821"
+    },
+    {
+      "id": "Luther Vandross",
+      "decade": 1980,
+      "genre": "SOUL",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/lutherv_1936.jpg"
+    },
+    {
+      "id": "Lyle Lovett",
+      "decade": 1980,
+      "genre": "COUNTRY",
+      "image": "http://g1j1g1up91ni2kf7q4x2f132.wpengine.netdna-cdn.com/wp-content/uploads/2015/08/LyleLovett3.jpg"
+    },
+    {
+      "id": "Lynyrd Skynyrd",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.whiskeycreek.net/wr1.png"
+    },
+    {
+      "id": "Mac Davis",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://cdn.pastemagazine.com/www/blogs/lists/2011/05/27/MC.Hammer.jpg"
+    },
+    {
+      "id": "Madonna",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Mac_Davis.jpg"
+    },
+    {
+      "id": "Manfred Mann",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/130/590x/-523496.jpg"
+    },
+    {
+      "id": "Manfred Mann's Earth Band",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://www.progarchives.com/progressive_rock_discography_band/862.jpg"
+    },
+    {
+      "id": "Manic Street Preachers",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://www.progarchives.com/progressive_rock_discography_band/862.jpg"
+    },
+    {
+      "id": "Marianne Faithfull",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/63/f5/33/63f5338fc055ce7d79a6b918ff33db85.jpg"
+    },
+    {
+      "id": "Marilyn McCoo & Billy Davis, Jr",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://s.yimg.com/ny/api/res/1.2/OIk2KuGggaDDqfQLjvgPaw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAwO2lsPXBsYW5l/http://media.zenfs.com/en_us/News/afp.com/305d071714bf7d90a5ba92103903984e0f6ef5f9.jpg"
+    },
+    {
+      "id": "Mark Knopfler",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/5th_Dimension_1969.jpg"
+    },
+    {
+      "id": "Mark Lindsay",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://mediaserver-cont-sv5-2-v4v6.pandora.com/images/public/int/3/7/2/0/848064000273_500W_500H.jpg"
+    },
+    {
+      "id": "Marshall Crenshaw",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www.contactmusic.com/pics/ld/mark_lindsay_300710/mark_lindsay_former_lead_singer_of_the_group_paul_revere_5521167.jpg"
+    },
+    {
+      "id": "Martha and the Vandellas",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://berniesanders.com/wp-content/uploads/2015/10/102315_Bernie_IA-329219.jpg"
+    },
+    {
+      "id": "Marvin Gaye",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "http://media.gettyimages.com/photos/singer-martha-reeves-of-music-group-martha-and-the-vandellas-picture-id50543725"
+    },
+    {
+      "id": "Mason Williams",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mason_Williams_1969.JPG/220px-Mason_Williams_1969.JPG"
+    },
+    {
+      "id": "Massive Attack",
+      "decade": 1990,
+      "genre": "CHILL",
+      "image": "http://www.masonwilliams-online.com/images/mwstoolgtr.jpg"
+    },
+    {
+      "id": "Matchbox Twenty",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Massive_Attack_composite.jpg"
+    },
+    {
+      "id": "Matthew Sweet",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://lastheplace.com/images/article-images/1NEW2007WRITERS/susie/matchbox_20/Matchbox_20.jpg"
+    },
+    {
+      "id": "Maureen McGovern",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Matthew_Sweet_at_City_Winery.jpg"
+    },
+    {
+      "id": "MC Hammer",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/MC_Hammer_%28cropped%29.jpg"
+    },
+    {
+      "id": "Meat Loaf",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.rickbozzo.com/images/meatloaf-soul68.jpg"
+    },
+    {
+      "id": "Melanie",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/da/b6/ab/dab6abfd7d39fd61dfcb6b5066fb320b.jpg"
+    },
+    {
+      "id": "Men at Work",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://static01.nyt.com/images/2012/04/21/arts/HAM-obit/HAM-obit-superJumbo.jpg"
+    },
+    {
+      "id": "Michael Jackson",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://mediad.publicbroadcasting.net/p/kajx/files/201601/who_s_bad.jpg"
+    },
+    {
+      "id": "Michael McDonald",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://4.bp.blogspot.com/_z5oinU6Fugw/S_4srNj7IOI/AAAAAAAADqg/CttORwZi6B8/s320/michael+mcdonald+6.jpg"
+    },
+    {
+      "id": "Michael Penn",
+      "decade": 1990,
+      "genre": "POP",
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/282/MI0002282403.jpg?partner=allrovi.com"
+    },
+    {
+      "id": "Mick Jagger",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://cp91279.biography.com/1000509261001/1000509261001_2036548682001_Bio-Biography-Mick-Jagger-SF.jpg"
+    },
+    {
+      "id": "Midnight Oil",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://thebrag.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-10-at-12.14.52-pm.png"
+    },
+    {
+      "id": "Mike and the Mechanics",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mike_and_the_Mechanics_2012.jpg/1200px-Mike_and_the_Mechanics_2012.jpg"
+    },
+    {
+      "id": "Mike Rutherford",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://c7.alamy.com/comp/B4J409/phil-collins-singer-songwriter-actor-rock-group-genesis-with-mike-B4J409.jpg"
+    },
+    {
+      "id": "Miles Davis",
+      "decade": 1950,
+      "genre": "SOUL",
+      "image": "https://cdn.theculturetrip.com/wp-content/uploads/2016/04/miles-davis--wikipedia-commons1.jpg"
+    },
+    {
+      "id": "Missing Persons",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/dd/ce/d9/ddced9404d649cad74633006ca021737.jpg"
+    },
+    {
+      "id": "Mitch Ryder",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Mitch_Ryder(ThKraft).jpg"
+    },
+    {
+      "id": "Moby",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Moby_1.jpg"
+    },
+    {
+      "id": "Moby Grape",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Moby_Grape_Promo2.jpg/220px-Moby_Grape_Promo2.jpg"
+    },
+    {
+      "id": "Modern English",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Robbie_Grey_Modern_English_The_Saint_Asbury_Park_NJ_08232013R_LHCollins.jpg"
+    },
+    {
+      "id": "Molly Hatchet",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/01/mollyhatchet.jpg"
+    },
+    {
+      "id": "Morrissey",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://www.noecho.net/uploads/wysiwyg/morrissey-band.jpg"
+    },
+    {
+      "id": "Mott the Hoople",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mott_the_Hoople_%281974%29.png/1200px-Mott_the_Hoople_%281974%29.png"
+    },
+    {
+      "id": "Mozez",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "http://images.contactmusic.com/newsimages/mozez_986814.jpg"
+    },
+    {
+      "id": "Mudcrutch",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://cdn.pastemagazine.com/www/articles/tom-petty-mudcrutch-LP-2-tour-main.jpg"
+    },
+    {
+      "id": "Muddy Waters",
+      "decade": 1960,
+      "genre": "CLASSIC",
+      "image": "https://www.rockhall.com/sites/default/files/styles/opengraph_crop_from_top/public/muddywaters_002.jpg?itok=-5lv-47y"
+    },
+    {
+      "id": "Murray Head",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqsdb.jpg"
+    },
+    {
+      "id": "Muse",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Muse_melbourne28012010.jpg"
+    },
+    {
+      "id": "Natalie Imbruglia",
+      "decade": 2000,
+      "genre": "POP",
+      "image": "http://s3.india.com/wp-content/uploads/2016/02/natalie-imbruglia-torn.jpg"
+    },
+    {
+      "id": "Natalie Merchant",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/NatalieMerchant.jpg"
+    },
+    {
+      "id": "Natasha Bedingfield",
+      "decade": 2000,
+      "genre": "POP",
+      "image": "http://media.gettyimages.com/photos/singer-natasha-bedingfield-attends-the-warner-music-group-grammy-at-picture-id635043774"
+    },
+    {
+      "id": "Neil Diamond",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://2xkcvt35vyxycuy7x23e0em1a5g.wpengine.netdna-cdn.com/wp-content/uploads/2014/01/154492110-Singer-Neil-Diamond-in.jpg"
+    },
+    {
+      "id": "Neil Sedaka",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/236x/e2/f0/31/e2f031798c73177dbbfef24812b7367b.jpg"
+    },
+    {
+      "id": "Neil Young",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.neilyoung.eu/images/the_squires.jpg"
+    },
+    {
+      "id": "Nelly Furtado",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "http://3.bp.blogspot.com/-t_Dwu8OhGPI/WE7-lRlNP5I/AAAAAAAATP8/M8iqQnWfDeYPqV2qn3_gCLF-UbeHQvPEwCK4B/s1600/15492544_1231291063617318_1093217954914903987_n.jpg"
+    },
+    {
+      "id": "Neon Heights",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Neon_Indian72.jpg"
+    },
+    {
+      "id": "New Order",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0mSURvisa75eU-69KHJp1SBr4QbZA6cg79PozSsG8axiIK6qLSg"
+    },
+    {
+      "id": "New York Dolls",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/New_York_Dolls_-_TopPop_1973_11.png"
+    },
+    {
+      "id": "Nick Lowe",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.covermesongs.com/wp-content/uploads/2011/06/Wilco-500x380.jpg"
+    },
+    {
+      "id": "Nickelback",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://nyoobserver.files.wordpress.com/2016/01/72621751.jpg?quality=80&w=635"
+    },
+    {
+      "id": "Nils Lofgren",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.kansascity.com/entertainment/ent-columns-blogs/back-to-rockville/nhig72/picture70258632/ALTERNATES/FREE_640/Music-Concert%20Downloa_Fres"
+    },
+    {
+      "id": "Nine Inch Nails",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://i.neoseeker.com/n/4/prettyhatemachine.jpg"
+    },
+    {
+      "id": "Nirvana",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nirvana_around_1992.jpg/220px-Nirvana_around_1992.jpg"
+    },
+    {
+      "id": "No Doubt",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://images.bit-tech.net/news_images/2009/11/no-doubt-sues-activision-over-band-hero/article_img.jpg"
+    },
+    {
+      "id": "Norman Greenbaum",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://i.ytimg.com/vi/wyXc2rLey-g/maxresdefault.jpg"
+    },
+    {
+      "id": "Oasis",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://www.stgeorges.co.uk/sites/default/files/blog_uploads/2011/12/Oasis.jpg"
+    },
+    {
+      "id": "Ohio Players",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://unique74mag.files.wordpress.com/2011/07/ohio-players.jpg?w=600&h=416"
+    },
+    {
+      "id": "Olivia Newton-John",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/236x/72/6d/9d/726d9d8f6f08c0fc3b150fbe914b935b.jpg"
+    },
+    {
+      "id": "Otis Redding",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://strathdee.files.wordpress.com/2011/11/barkays1.jpg?w=500&h=337"
+    },
+    {
+      "id": "Outlaws",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_Outlaws_-_Thomasson_%26_Jones.jpg/240px-The_Outlaws_-_Thomasson_%26_Jones.jpg"
+    },
+    {
+      "id": "Ozzy Osbourne",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Ozzy_Osbourne_band.jpg"
+    },
+    {
+      "id": "Pablo Cruise",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://s02.artist.images.jango.com/2e7/2e71fb6fd8c801b2433167b8ba1b0aed_lg.jpg"
+    },
+    {
+      "id": "Pat Benatar",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://cp91279.biography.com/1000509261001/1000509261001_1102982972001_Bio-Women-Who-Rock-Pat-Benatar-SF.jpg"
+    },
+    {
+      "id": "Patrick Simmons",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/patrick-simmons-of-the-doobie-brothers-performs-at-the-sonoma-music-picture-id491387188"
+    },
+    {
+      "id": "Patsy Cline",
+      "decade": 1960,
+      "genre": "COUNTRY",
+      "image": "http://11thstreetcowboybar.com/music/almostpatsyclineband/01.jpg"
+    },
+    {
+      "id": "Patti Smith",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Patti_Smith.jpg/220px-Patti_Smith.jpg"
+    },
+    {
+      "id": "Paul Butterfield",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/957/MI0001957996.jpg?partner=allrovi.com"
+    },
+    {
+      "id": "Paul McCartney",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://d1ya1fm0bicxg1.cloudfront.net/2016/07/promoted-media-optimized_577fe7d3bbbde.jpg"
+    },
+    {
+      "id": "Paul Revere & the Raiders",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Paul_Revere_and_the_Raiders_1967.JPG"
+    },
+    {
+      "id": "Paul Simon",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://cmga360music.files.wordpress.com/2016/05/1-paul-simon-6.jpg"
+    },
+    {
+      "id": "Pearl Jam",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://villanovan.files.wordpress.com/2013/12/pearl-jam-crop.jpg"
+    },
+    {
+      "id": "Percy Sledge",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/fd/f6/8d/fdf68d8376fa6ed269c946b083026ab4.jpg"
+    },
+    {
+      "id": "Pet Shop Boys",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://c8.alamy.com/comp/FJKGNP/singer-neil-tennant-of-the-british-music-group-pet-shop-boys-performs-FJKGNP.jpg"
+    },
+    {
+      "id": "Pete Townshend",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www.americansongwriter.com/wp-content/uploads/2012/02/abh_0228_640-e1329511365946.jpg"
+    },
+    {
+      "id": "Peter and Gordon",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://c8.alamy.com/comp/BHK6NC/peter-and-gordon-british-music-group-pop-1964-1968-peter-asher-2261944-BHK6NC.jpg"
+    },
+    {
+      "id": "Peter Frampton",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.nndb.com/people/065/000024990/peter-frampton-1-sized.jpg"
+    },
+    {
+      "id": "Peter Gabriel",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2014/02/Genesis1.jpg?w=630&h=420&zc=1&s=0&a=t&q=89"
+    },
+    {
+      "id": "Peter Tosh",
+      "decade": 1970,
+      "genre": "REGGAE",
+      "image": "http://www.feileafrica.com/TOSH%20MEETS%20MARLEY%20group%20shot_for%20web.jpg"
+    },
+    {
+      "id": "Peter Wolf",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Peter-Wolf_J_Geils_Band.jpg/220px-Peter-Wolf_J_Geils_Band.jpg"
+    },
+    {
+      "id": "Peter, Paul and Mary",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Peter_paul_and_mary_publicity_photo.JPG"
+    },
+    {
+      "id": "Petula Clark",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/46/2b/3b/462b3b6488419311b70f4363eac8adf3.jpg"
+    },
+    {
+      "id": "Phil Collins",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/british-music-group-genesis-singer-phil-collins-performs-30-june-2007-picture-id109822243"
+    },
+    {
+      "id": "Phish",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www.audio-music.info/pic/Phish_1.jpg"
+    },
+    {
+      "id": "Pink",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/P!nk_Live_2013.jpg/220px-P!nk_Live_2013.jpg"
+    },
+    {
+      "id": "Pink Floyd",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://ae01.alicdn.com/kf/HTB1oCUUKVXXXXaQXXXXq6xXFXXXF/Music-font-b-pink-b-font-font-b-floyd-b-font-music-bands-artwork-4-Sizes.jpg"
+    },
+    {
+      "id": "Portishead",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/beth-gibbons-singer-of-british-band-portishead-performs-during-the-picture-id119487022?s=594x594"
+    },
+    {
+      "id": "Prince",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/b6/69/40/b669407ea571b7a26f90c0d6d8893490.jpg"
+    },
+    {
+      "id": "Procol Harum",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/Procol_Harum_3646.jpg"
+    },
+    {
+      "id": "Public Image Ltd",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://thumbs.dreamstime.com/z/public-image-ltd-belgrade-serbia-june-post-punk-music-group-performs-onstage-belgrades-skc-club-june-belgrade-serbia-41613517.jpg"
+    },
+    {
+      "id": "Queen",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://i.ytimg.com/vi/Mduv1FrDnko/hqdefault.jpg"
+    },
+    {
+      "id": "R.E.M.",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://cdn.pastemagazine.com/www/blogs/lists/2009/07/28/rem.jpg"
+    },
+    {
+      "id": "Radiohead",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://consequenceofsound.files.wordpress.com/2016/02/radiohead.jpg?w=806&quality=80&h=647"
+    },
+    {
+      "id": "Rage Against the Machine",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://loudwire.com/files/2012/11/RATMFeaturedSony.jpg"
+    },
+    {
+      "id": "Rainbow",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2014/04/polydor.jpg"
+    },
+    {
+      "id": "Randy Newman",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/RandyNewman12Songs.jpg"
+    },
+    {
+      "id": "Raspberries",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/08/Raspberries-630-420.jpg"
+    },
+    {
+      "id": "Ray Charles",
+      "decade": 1950,
+      "genre": "CLASSIC",
+      "image": "http://www.singers.com/group/images/RayCharlesSingers.jpg"
+    },
+    {
+      "id": "Ray Price",
+      "decade": 1950,
+      "genre": "COUNTRY",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ray_Price_publicity_portrait_cropped.jpg/220px-Ray_Price_publicity_portrait_cropped.jpg"
+    },
+    {
+      "id": "Red Hot Chili Peppers",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://consequenceofsound.files.wordpress.com/2016/05/red-hot-chili-peppers-getaway-song-mp3-stream.png?w=807"
+    },
+    {
+      "id": "Regina Spektor",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://fanart.tv/fanart/music/fbb375f9-48bb-4635-824e-4120273b3ba7/albumcover/songs-4ffd2622078fe.jpg"
+    },
+    {
+      "id": "Renaissance",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Renaissance_publicity_shot_RichardBarnes.jpg/250px-Renaissance_publicity_shot_RichardBarnes.jpg"
+    },
+    {
+      "id": "REO Speedwagon",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://i.ytimg.com/vi/pju3oYNRm_4/maxresdefault.jpg"
+    },
+    {
+      "id": "Richard Harris",
+      "decade": 1960,
+      "genre": "CLASSIC",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/MacAruthurParkSingle.jpg/220px-MacAruthurParkSingle.jpg"
+    },
+    {
+      "id": "Rick James",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "http://a.espncdn.com/photo/2013/0204/james/17-2048X1365.jpg"
+    },
+    {
+      "id": "Rick Wakeman",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Rickwakemanmoog.jpg"
+    },
+    {
+      "id": "Ricky Nelson",
+      "decade": 1950,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/236x/50/c6/ea/50c6ea5787521d4720cef772d5798823.jpg"
+    },
+    {
+      "id": "Rihanna",
+      "decade": 2000,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rihanna_concert_in_Washington_DC_%282%29.jpg/1200px-Rihanna_concert_in_Washington_DC_%282%29.jpg"
+    },
+    {
+      "id": "Ringo Starr",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/9/94/20110626_102_All-Starr-Band-in-Paris_Ringo-Starr_WP.jpg"
+    },
+    {
+      "id": "Ritchie Valens",
+      "decade": 1950,
+      "genre": "ROCK",
+      "image": "http://americansabor.org/sites/default/files/imagecache/gallery_image_detail_medium/images/ritchie_valens_2.jpg"
+    },
+    {
+      "id": "Robbie Robertson",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Robbie_Robertson_(1971).png/350px-Robbie_Robertson_(1971).png"
+    },
+    {
+      "id": "Robert Cray",
+      "decade": 1980,
+      "genre": "SOUL",
+      "image": "http://www.wfuv.org/sites/default/files/audioarchives/photos/RobertCrayBand_IHFUV01s.jpg"
+    },
+    {
+      "id": "Robert Palmer",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/b3/18/75/b31875a059d6755f68dba99481fe26ce.jpg"
+    },
+    {
+      "id": "Robert Plant",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Robert_Plant.jpg/220px-Robert_Plant.jpg"
+    },
+    {
+      "id": "Roberta Flack",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/d4/17/43/d41743009d8a0d9781a752f420303c7b.jpg"
+    },
+    {
+      "id": "Robin Lane",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Robin_Lane_April_2010.jpg/220px-Robin_Lane_April_2010.jpg"
+    },
+    {
+      "id": "Rod Stewart",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Rod_stewart_05111976_12_400.jpg"
+    },
+    {
+      "id": "Roger Daltrey",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://c8.alamy.com/comp/ETTWJJ/roger-daltrey-lead-singer-of-the-who-rock-group-performing-on-the-ETTWJJ.jpg"
+    },
+    {
+      "id": "Roger Hodgson",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www.rogerhodgson.com/documents/rhrama2013m.jpg"
+    },
+    {
+      "id": "Roger McGuinn",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51KpvOJ2oBL.jpg"
+    },
+    {
+      "id": "Roger Waters",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2016/10/cct-bridge-1024-32.jpg?w=620"
+    },
+    {
+      "id": "Roland Gift",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/british-musician-roland-gift-of-the-group-fine-young-cannibals-on-picture-id565152487?s=594x594"
+    },
+    {
+      "id": "Romare",
+      "decade": 2010,
+      "genre": "CHILL",
+      "image": "https://ninjatune.net/images/artists/romare-main.jpg"
+    },
+    {
+      "id": "Roxy Music",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Roxy_Music_-_TopPop_1973_06.png"
+    },
+    {
+      "id": "Roy Orbison",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Roy_Orbison.jpg"
+    },
+    {
+      "id": "Röyksopp",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpZMGO7GdvWxYkrfYyV9USLTXXC0kGrDKqWb_FQbUZ-zCs2c0"
+    },
+    {
+      "id": "Rush",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Rush-in-concert.jpg"
+    },
+    {
+      "id": "Ryan Adams",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://lastfm-img2.akamaized.net/i/u/avatar300s/e961990e0b1a4cd4931c69207d24b62c.jpg"
+    },
+    {
+      "id": "Sade",
+      "decade": 1980,
+      "genre": "SOUL",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/95/2f/15/952f1584e51c3e788f896e3ed5e6fb97.jpg"
+    },
+    {
+      "id": "Salt-N-Pepa",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/a8/c6/e3/a8c6e3f90bf0e3c98f360025e785ca44.jpg"
+    },
+    {
+      "id": "Sam & Dave",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sam_%26_Dave_%282%29.png/220px-Sam_%26_Dave_%282%29.png"
+    },
+    {
+      "id": "Sam Cooke",
+      "decade": 1950,
+      "genre": "SOUL",
+      "image": "http://images37.concordmusicgroup.com/artists/fullsize/Sam_Cooke_Soul_Stirrers.jpg"
+    },
+    {
+      "id": "Sam the Sham",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sam_the_sham_1965.jpg"
+    },
+    {
+      "id": "Santana",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Santana_(1971).png"
+    },
+    {
+      "id": "Sarah Brightman",
+      "decade": 1990,
+      "genre": "CLASSIC",
+      "image": "http://images1.buymusichere.net/images/universal/162/04228391162.jpg"
+    },
+    {
+      "id": "Scissor Sisters",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://www.pinknews.co.uk/images/2012/10/Scissor-Sisters-CREDIT-Magic-Hour.jpg"
+    },
+    {
+      "id": "Seal",
+      "decade": 1990,
+      "genre": "POP",
+      "image": "http://media.gettyimages.com/photos/singer-seal-arrives-at-warner-music-groups-2011-post-grammy-event-at-picture-id109070280?s=594x594"
+    },
+    {
+      "id": "Seals and Crofts",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Seals_and_Crofts_1975.JPG"
+    },
+    {
+      "id": "Shakira",
+      "decade": 1990,
+      "genre": "POP",
+      "image": "http://lionmusic.com/artists/artistsfiles/hos_band2011.jpg"
+    },
+    {
+      "id": "Shania Twain",
+      "decade": 1990,
+      "genre": "COUNTRY",
+      "image": "http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/10/07/shania-twain.jpg"
+    },
+    {
+      "id": "Shannon McNally",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://trussartguitarblog.files.wordpress.com/2015/04/shannon_james_trussart.jpg"
+    },
+    {
+      "id": "Sheena Easton",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/EastonLive2009.jpg"
+    },
+    {
+      "id": "Sheryl Crow",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://www.pauseandplay.com/wp-content/uploads/2013/05/Tedeschi-Trucks-Band-1-620x350.jpg"
+    },
+    {
+      "id": "Shivaree",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Shivaree.jpeg"
+    },
+    {
+      "id": "Shocking Blue",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/236x/42/2c/bc/422cbc508cb05076443366df66be3c95.jpg"
+    },
+    {
+      "id": "Sia",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "http://4hdwallpapers.com/wp-content/uploads/2014/06/Sia-Singer.jpg"
+    },
+    {
+      "id": "Simon & Garfunkel",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://l7.alamy.com/zooms/0c790cd4a2354ff2a130a0e1a646a3a4/simon-le-bon-lead-singer-with-british-music-group-duran-duran-kicks-h15b50.jpg"
+    },
+    {
+      "id": "Simple Minds",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Simple_Minds.jpg/800px-Simple_Minds.jpg"
+    },
+    {
+      "id": "Sinéad O'Connor",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://i4.mirror.co.uk/incoming/article4632182.ece/ALTERNATES/s1227b/Sir-Bob-Geldof-and-Sinead-OConnor.jpg"
+    },
+    {
+      "id": "Skylar Grey",
+      "decade": 2010,
+      "genre": "POP",
+      "image": "http://media.gettyimages.com/photos/singersongwriter-skylar-grey-arrives-at-universal-music-group-2017-picture-id635028378?k=6&m=635028378&s=594x594&w=0&h=FxYxGFCCcsVCqzaI5Ow-BLhbx2tryV9nmminqlA7pmE="
+    },
+    {
+      "id": "Sleepthief",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sleepthief_Dawnseeker_cover.jpg/220px-Sleepthief_Dawnseeker_cover.jpg"
+    },
+    {
+      "id": "Sly and the Family Stone",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "http://thepressoffice.com/wp-content/uploads/2016/04/family-stone-21e7ec1af3fbdd24.jpg"
+    },
+    {
+      "id": "Small Faces",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Small_Faces_1965.JPG"
+    },
+    {
+      "id": "Smokey Robinson",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Smokey-miracles-page-display.jpg"
+    },
+    {
+      "id": "Soft Cell",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/1a/46/f1/1a46f13f26fad7092b653ca4fff21772.jpg"
+    },
+    {
+      "id": "Sohn",
+      "decade": 2010,
+      "genre": "CHILL",
+      "image": "https://www.billboard.com/files/media/sohn_billboard_650b.jpg"
+    },
+    {
+      "id": "Sol Seppy",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "https://farm6.static.flickr.com/5190/5640177310_1c3cdc4d2c_b.jpg"
+    },
+    {
+      "id": "Sonic Youth",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/4/44/SonicYouth.JPG"
+    },
+    {
+      "id": "Sonny & Cher",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://i2.cdn.cnn.com/cnnnext/dam/assets/160222163852-sonny-james-restricted-super-169.jpg"
+    },
+    {
+      "id": "Sophie Barker",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "https://www.theupcoming.co.uk/wp-content/uploads/2013/04/Sophie-Barker-at-The-Tabernacle-OndrejKubicek-TheUpcoming-11.jpg"
+    },
+    {
+      "id": "Soundgarden",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www.noiseaddicts.com/wp-content/uploads/2010/12/soundgarden.jpg"
+    },
+    {
+      "id": "Southside Johnny and the Asbury Jukes",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://paramounthudsonvalley.showare.com/uplimage/SouthsideJohnny2015.jpg"
+    },
+    {
+      "id": "Spandau Ballet",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://c8.alamy.com/comp/A79NTA/spandau-ballet-uk-music-group-with-toiny-hadley-lead-singer-A79NTA.jpg"
+    },
+    {
+      "id": "Sparklehorse",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://cdn3.pitchfork.com/longform/258/sparklehorse2007quotetim.jpg"
+    },
+    {
+      "id": "Spirit",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Spirit_1990.jpg/220px-Spirit_1990.jpg"
+    },
+    {
+      "id": "Squeeze",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://i.dailymail.co.uk/i/pix/2012/02/09/article-2098914-025FB2EA000004B0-788_468x286.jpg"
+    },
+    {
+      "id": "Starship",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/10/starship-mickey.jpg"
+    },
+    {
+      "id": "Status Quo",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Status_quo_2005.jpg"
+    },
+    {
+      "id": "Steelheart",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/82/79/6b/82796bcfa991bc581f6442afb7f516ca.jpg"
+    },
+    {
+      "id": "Steely Dan",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://www.steelydan.com/Images/tour11/SDgroup2011.jpg"
+    },
+    {
+      "id": "Steppenwolf",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Steppenwolf_(1971).png"
+    },
+    {
+      "id": "Steve Howe",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/guitarist-steve-howe-of-musical-group-yes-performs-at-the-pearl-picture-id173379571"
+    },
+    {
+      "id": "Steve Miller Band",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Steve_Miller_Band_Ravinia.jpg"
+    },
+    {
+      "id": "Steve Perry",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/05/Michael-Ochs-Archive-not-Getty.jpg"
+    },
+    {
+      "id": "Steve Winwood",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://d1ya1fm0bicxg1.cloudfront.net/2015/05/77835936-image-optimized_55478d648b19b.jpg"
+    },
+    {
+      "id": "Stevie Nicks",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://media.gettyimages.com/photos/singer-stevie-nicks-of-the-rock-group-fleetwood-mac-performs-onstage-picture-id98505868"
+    },
+    {
+      "id": "Stevie Ray Vaughan",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2014/12/stevie-ray-vaughan-630x420.jpeg"
+    },
+    {
+      "id": "Stevie Wonder",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://www3.pictures.zimbio.com/gi/Stevie+Wonder+Songs+Key+Life+Star+GRAMMY+Salute+AmeLTIhv3dLl.jpg"
+    },
+    {
+      "id": "Sting",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Sting_ThePolice_2007.jpg"
+    },
+    {
+      "id": "Stone Temple Pilots",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Stone_Temple_Pilots_band_in_Manila.jpg"
+    },
+    {
+      "id": "Strawberry Alarm Clock ",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://thelosangelesbeat.com/wp-content/uploads/2012/07/1100814mod2Crp1.jpg"
+    },
+    {
+      "id": "Stray Cats",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqrlj.jpg"
+    },
+    {
+      "id": "Styx",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2012/08/STYX.jpg"
+    },
+    {
+      "id": "Sufjan Stevens",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "http://photos1.blogger.com/blogger/6512/464/1600/sufjan082005.1.jpg"
+    },
+    {
+      "id": "Supertramp",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2012/08/Supertramp-Hulton-Archive.jpeg"
+    },
+    {
+      "id": "Sweet",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Sweet_promotional_photo.jpg"
+    },
+    {
+      "id": "T. Rex",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/T_RexatWheeley.jpg/250px-T_RexatWheeley.jpg"
+    },
+    {
+      "id": "Tal Bachman",
+      "decade": 1990,
+      "genre": "POP",
+      "image": "https://i.ytimg.com/vi/_ElORM9O-0U/maxresdefault.jpg"
+    },
+    {
+      "id": "Talking Heads",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Talking_Heads_band1.jpg"
+    },
+    {
+      "id": "Tammy Wynette",
+      "decade": 1960,
+      "genre": "COUNTRY",
+      "image": "http://www.oceanbirdmusic.com/Assets/TammyWynette-girls-sm.jpg"
+    },
+    {
+      "id": "Tavares",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://www.panachereport.com/channels/hip%20hop%20gallery/images/090431964729.jpg"
+    },
+    {
+      "id": "Tears for Fears",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://consequenceofsound.files.wordpress.com/2014/09/tearsforfears.jpg?w=806&quality=80&h=806"
+    },
+    {
+      "id": "Teddy Pendergrass",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/d5/4e/93/d54e93e5-52ad-f8ee-8790-0c6e4bcb3675/dj.vxlwdpgc.jpg/1200x630bb.jpg"
+    },
+    {
+      "id": "The 5th Dimension",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://blogs.mcall.com/.a/6a00d8341c4fe353ef017c327cd87a970b-pi"
+    },
+    {
+      "id": "The Allman Brothers Band",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2012/11/allman-brothers-capricorn-a.jpg"
+    },
+    {
+      "id": "The Amboy Dukes",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/portrait-of-the-band-the-amboy-dukes-including-ted-nugent-circa-1972-picture-id568900003"
+    },
+    {
+      "id": "The Animals",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://i.ytimg.com/vi/X6DVwql1E-g/maxresdefault.jpg"
+    },
+    {
+      "id": "The Association",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f0/Windy_by_The_Association_single_cover.jpg"
+    },
+    {
+      "id": "The Asteroids Galaxy Tour",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "http://static.rappler.com/images/20140226TheAsteroidsGalaxyTour.jpg"
+    },
+    {
+      "id": "The B-52's",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/236x/96/f5/a4/96f5a4d895d946dadfc5e88a9d0f8f53.jpg"
+    },
+    {
+      "id": "The Babys",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://i.ytimg.com/vi/4DRg7jK-_RA/hqdefault.jpg"
+    },
+    {
+      "id": "The Band",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Band_(1969).png"
+    },
+    {
+      "id": "The Bangles",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/61/60/33/6160332a7407f91a31fb855cff9efb19.jpg"
+    },
+    {
+      "id": "The Beach Boys",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://media.mlive.com/chronicle/entertainment_impact/photo/11753781-large.jpg"
+    },
+    {
+      "id": "The Beat",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://www.scenepointblank.com/assets/img/features/teb_intro.jpg"
+    },
+    {
+      "id": "The Beatles",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://www.billboard.com/files/styles/article_main_image/public/media/the-beatles-ed-sullivan-smiling-1964-billboard-650.jpg"
+    },
+    {
+      "id": "The Beautiful South",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://i.ytimg.com/vi/J-q_gAM1BXQ/maxresdefault.jpg"
+    },
+    {
+      "id": "The Black Crowes",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/22/59/d5/2259d52eff912bd123e875c8d9fb7b53.jpg"
+    },
+    {
+      "id": "The Black Eyed Peas",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://w-dog.net/wallpapers/6/13/547718138192450/black-eyed-peas-black-eyed-peas-pop-band-hip-hop-william-apldeap-taboo-fergie.jpg"
+    },
+    {
+      "id": "The Box Tops",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/32/bd/f3/32bdf38641c88999e4a8d5485958012a.jpg"
+    },
+    {
+      "id": "The Byrds",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://i.ytimg.com/vi/W4ga_M5Zdn4/hqdefault.jpg"
+    },
+    {
+      "id": "The Cardigans",
+      "decade": 1990,
+      "genre": "CHILL",
+      "image": "http://www.alwaysontherun.net/cardiganstop2.jpg"
+    },
+    {
+      "id": "The Carpenters",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://media.singsnap.com/assets/artists/285.jpg"
+    },
+    {
+      "id": "The Cars",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://2aaa671sdmz91yqv0g3zj0qq.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/img-the-cars_123640621634-1024x682.jpg"
+    },
+    {
+      "id": "The Chi-Lites",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLzpnSsHT2gxHPzI8mlfHrxH7YY3QZS2WgVrqbbU-fABAMpW35"
+    },
+    {
+      "id": "The Cinematic Orchestra",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "https://essentiallyeclectic.files.wordpress.com/2011/11/cinematic-22.jpg"
+    },
+    {
+      "id": "The Clancy Brothers",
+      "decade": 1950,
+      "genre": "CLASSIC",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Clancys.jpg/250px-Clancys.jpg"
+    },
+    {
+      "id": "The Clash",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://img.wennermedia.com/featured-promo-782/rs-438-the-clash.jpg"
+    },
+    {
+      "id": "The Coasters",
+      "decade": 1950,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Coasters_1957.JPG"
+    },
+    {
+      "id": "The Corrs",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/8d/4e/4e/8d4e4ea8012c4c8dd6a9a4ba7f746422.jpg"
+    },
+    {
+      "id": "The Cowsills",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://www.cinefamily.org/wp-content/uploads/2011/08/cowsills_newsite.jpg"
+    },
+    {
+      "id": "The Cranberries",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/d3/95/4b/d3954bd2dbeaac62febd660a94297079.jpg"
+    },
+    {
+      "id": "The Cult",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://i.onionstatic.com/avclub/4352/56/16x9/960.jpg"
+    },
+    {
+      "id": "The Cure",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://i.onionstatic.com/avclub/4285/13/16x9/960.jpg"
+    },
+    {
+      "id": "The Delfonics",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "http://images37.concordmusicgroup.com/albums/300x300/VCD-3415-2.jpg"
+    },
+    {
+      "id": "The Doobie Brothers",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://images2.static-bluray.com/reviews/7121_5.jpg"
+    },
+    {
+      "id": "The Doors",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://ae01.alicdn.com/kf/HTB1dH70NXXXXXbJaXXXq6xXFXXX5/Jim-Morrison-The-font-b-Doors-b-font-Psychedelic-Rock-Band-font-b-Music-b-font.jpg"
+    },
+    {
+      "id": "The Dream Syndicate",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www.slicingupeyeballs.com/wp-content/uploads/2013/05/The-Dream-Syndicate.jpg"
+    },
+    {
+      "id": "The Drifters",
+      "decade": 1950,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Drifters.png"
+    },
+    {
+      "id": "The Dubliners",
+      "decade": 1960,
+      "genre": "CLASSIC",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/The_original_dubliners.jpg"
+    },
+    {
+      "id": "The Everly Brothers",
+      "decade": 1950,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Everly_Brothers_1970.JPG"
+    },
+    {
+      "id": "The Firm",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/99/The_Firm.jpg"
+    },
+    {
+      "id": "The Fixx",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://www.kirtlandrecords.com/images/BandTheFixx300.jpg"
+    },
+    {
+      "id": "The Fools",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://1.bp.blogspot.com/-IsEnssDvkiw/ULglPXinpsI/AAAAAAAAA0s/3MKxHif9FiQ/s1600/fool8.jpg"
+    },
+    {
+      "id": "The Fortunes",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://www.brumbeat.net/forts03.jpg"
+    },
+    {
+      "id": "The Four Seasons (band)",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/The_4_Seasons_(1966).png/220px-The_4_Seasons_(1966).png"
+    },
+    {
+      "id": "The Go-Go's",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://www.gogos.com/wp-content/uploads/2011/03/biobanner.jpg"
+    },
+    {
+      "id": "The Grass Roots",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/66/ed/15/66ed150508ba5e298cb219405f0c4f58.jpg"
+    },
+    {
+      "id": "The Guess Who",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Guess_Who.png"
+    },
+    {
+      "id": "The Highwaymen",
+      "decade": 1990,
+      "genre": "COUNTRY",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Highwaymen.jpg/220px-Highwaymen.jpg"
+    },
+    {
+      "id": "The Hollies",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://c8.alamy.com/comp/CPGYKB/hollies-the-british-pop-group-founded-1962-group-picture-1960s-band-CPGYKB.jpg"
+    },
+    {
+      "id": "The Hues Corporation",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/The_Hues_Corporation_in_1970.jpg/220px-The_Hues_Corporation_in_1970.jpg"
+    },
+    {
+      "id": "The Human League",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://www.snakkle.com/wp-content/uploads/2011/08/human-league-split.jpg"
+    },
+    {
+      "id": "The Impressions",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/46/52/93/4652939b66a3390614529bfeb169fd31.jpg"
+    },
+    {
+      "id": "The Incredible String Band",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/1c/5f/39/1c5f3957ca9d7ecdbe338535ecc7f8b1.jpg"
+    },
+    {
+      "id": "The Invisible",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "http://guideimg.alibaba.com/images/shop/2015/09/12/37/travis-poster.-the-invisible-band-retro-funky-music-group-singer-pop-rock_9224237.jpeg"
+    },
+    {
+      "id": "The Isley Brothers",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Isley_Brothers_1.Jpg"
+    },
+    {
+      "id": "The J. Geils Band",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/02/geils2.jpg?w=630&h=420&zc=1&s=0&a=t&q=89"
+    },
+    {
+      "id": "The Jackson 5",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Jackson_5_tv_special_1972.JPG"
+    },
+    {
+      "id": "The Jaggerz",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://sites.google.com/site/pittsburghmusichistory/_/rsrc/1380521986592/pittsburgh-music-story/r-b--funk/the-jaggerz/Jaggerz%20A2.jpg"
+    },
+    {
+      "id": "The Jayhawks",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://blog.thecurrent.org/wp-content/blogs.dir/9/files/2013/03/01fBAND_REHEARSAL_5.jpg"
+    },
+    {
+      "id": "The Kingsmen",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://assets.nydailynews.com/polopoly_fs/1.2202722.1430314565!/img/httpImage/image.jpg_gen/derivatives/article_750/kingsmen-004a-jpg.jpg"
+    },
+    {
+      "id": "The Kinks",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/2d/c1/72/2dc17227204bfd93317b4a24531c94ef.jpg"
+    },
+    {
+      "id": "The Knack",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://www.theknack.com/wp-content/header-images/the-band-group.jpg"
+    },
+    {
+      "id": "The Left Banke",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_Left_Banke_1966.jpg/250px-The_Left_Banke_1966.jpg"
+    },
+    {
+      "id": "The Lemon Pipers",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/4f/b6/7c/4fb67cdcd323c0dd69bd55020111d0df.jpg"
+    },
+    {
+      "id": "The Lovin' Spoonful",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://images.eil.com/large_image/THE_LOVIN_SPOONFUL_JUG%2BBAND%2BMUSIC%2BEP-473570.jpg"
+    },
+    {
+      "id": "The Main Ingredient",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "http://s03.artist.images.jango.com/2e1/2e11d6525a84a107abf70edb5ffd8a8c_lg.jpg"
+    },
+    {
+      "id": "The Mamas & the Papas",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Mamas_and_the_Papas_Ed_Sullivan_Show_1968.JPG"
+    },
+    {
+      "id": "The Marshall Tucker Band",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81dXyK1Q-PL._SX355_.jpg"
+    },
+    {
+      "id": "The Mescaleros",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqrxk.jpg"
+    },
+    {
+      "id": "The Middle East",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "http://andrewmcmillen.com/wp-content/uploads/2011/04/the_middle_east.jpg"
+    },
+    {
+      "id": "The Miracles",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Smokey-miracles-page-display.jpg"
+    },
+    {
+      "id": "The Modern Lovers",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/american-rock-group-jonathan-richman-and-the-modern-lovers-onstage-at-picture-id583900541"
+    },
+    {
+      "id": "The Moments",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://i.ytimg.com/vi/cRok8SNKpAg/maxresdefault.jpg"
+    },
+    {
+      "id": "The Monkees",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://i2.cdn.cnn.com/cnnnext/dam/assets/120301020537-the-monkees-davy-jones-dead-at-66-horizontal-large-gallery.jpg"
+    },
+    {
+      "id": "The Moody Blues",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqh8w.jpg"
+    },
+    {
+      "id": "The Motels",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Motels_2011.jpg/220px-The_Motels_2011.jpg"
+    },
+    {
+      "id": "The Neville Brothers",
+      "decade": 1980,
+      "genre": "SOUL",
+      "image": "http://blog.carnivalneworleans.com/wp-content/uploads/neville-brothers.jpg"
+    },
+    {
+      "id": "The O'Jays",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_O%27Jays-photo-by-raymond-boyd.jpg/1200px-The_O%27Jays-photo-by-raymond-boyd.jpg"
+    },
+    {
+      "id": "The Partridge Family",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://i.huffpost.com/gen/1372521/thumbs/o-PARTRIDGE-FAMILY-GROUP-570.jpg?7"
+    },
+    {
+      "id": "The Pierces",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "http://4.bp.blogspot.com/--aHy9m_1w-o/U4XjBT7CzwI/AAAAAAAAAPw/zuHkf6zgSHo/s1600/PIERCES+POSE.jpg"
+    },
+    {
+      "id": "The Platters",
+      "decade": 1950,
+      "genre": "SOUL",
+      "image": "http://www.uncamarvy.com/Platters/platters05.jpg"
+    },
+    {
+      "id": "The Pointer Sisters ",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Pointer_Sisters_927-4783.jpg/220px-The_Pointer_Sisters_927-4783.jpg"
+    },
+    {
+      "id": "The Police",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/b4/72/17/b47217ddbfcbabbd9e9dc3fb0e8f48cf.jpg"
+    },
+    {
+      "id": "The Pretenders",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://d1ya1fm0bicxg1.cloudfront.net/2015/04/promoted-media-optimized_55341fc64d20d.jpg"
+    },
+    {
+      "id": "The Psychedelic Furs",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/42/a7/91/42a791140886e075abe67f3708ef4c8e.jpg"
+    },
+    {
+      "id": "The Rascals",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/The_Rascals_1969.JPG"
+    },
+    {
+      "id": "The Replacements",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Replacements_(band).jpg"
+    },
+    {
+      "id": "The Righteous Brothers",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqsfz.jpg"
+    },
+    {
+      "id": "The Rolling Stones",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://music.psu.edu/sites/music.psu.edu/files/rolling_stones.jpg"
+    },
+    {
+      "id": "The Ronettes",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_Ronettes.JPG"
+    },
+    {
+      "id": "The Sandpipers",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://www.spectropop.com/Sandpipers/200%20Sandpipers%2005.jpg"
+    },
+    {
+      "id": "The Searchers",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/af/7b/b8/af7bb85259478f47c73c4f361a571f45.jpg"
+    },
+    {
+      "id": "The Seekers",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://i4.mirror.co.uk/incoming/article3508301.ece/ALTERNATES/s615/The-music-group-seekers.jpg"
+    },
+    {
+      "id": "The Shirelles",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Shirelles_1962.jpg"
+    },
+    {
+      "id": "The Smashing Pumpkins",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://i.ytimg.com/vi/uiUzP9NLfno/maxresdefault.jpg"
+    },
+    {
+      "id": "The Smiths",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/2c/7e/bc/2c7ebc935dacfce5f3568ea612bc3e1a.jpg"
+    },
+    {
+      "id": "The Specials",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Specials.JPG/1200px-The_Specials.JPG"
+    },
+    {
+      "id": "The Spencer Davis Group",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/ab/Spencer_Davis_Group_I'm_a_Man_single_cover.jpg"
+    },
+    {
+      "id": "The Spinners",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/The_Spinners_(1965).png"
+    },
+    {
+      "id": "The Staple Singers",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "http://www.concordmusicgroup.com/wp-content/uploads/2015/10/Staple-Singers-Faith-Grace.jpg"
+    },
+    {
+      "id": "The Style Council",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqn8r.jpg"
+    },
+    {
+      "id": "The Stylistics",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/The_Stylistics_on_Soul_Train_1974.jpg"
+    },
+    {
+      "id": "The Supremes",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/87/d0/e8/87d0e8f50c65b15c0cad062da445f9af.jpg"
+    },
+    {
+      "id": "The Teardrop Explodes",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqhfj.jpg"
+    },
+    {
+      "id": "The Temptations",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Temptations_on_the_Ed_Sullivan_Show.JPG"
+    },
+    {
+      "id": "The Three Degrees ",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/0f/9a/00/0f9a00c46a4de634d5903c05a6c2de71.jpg"
+    },
+    {
+      "id": "The Trammps",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://static01.nyt.com/images/2012/03/09/arts/ELLIS-obit/ELLIS-obit-popup.jpg"
+    },
+    {
+      "id": "The Tremeloes",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/The_Tremeloes.png"
+    },
+    {
+      "id": "The Troggs",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://media.gettyimages.com/photos/singer-reg-presley-of-english-pop-group-the-troggs-performing-at-the-picture-id160906799"
+    },
+    {
+      "id": "The Tubes",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/november-1977-outrageous-american-shockrock-band-the-tubes-on-stage-picture-id3278905?s=594x594"
+    },
+    {
+      "id": "The Turtles",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Turtleshappytogether.jpg/225px-Turtleshappytogether.jpg"
+    },
+    {
+      "id": "The Velvet Underground",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://cdn2.pitchfork.com/news/53269/9601eae0.jpg"
+    },
+    {
+      "id": "The Ventures",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://media1.britannica.com/eb-media/99/23199-004-B697A1B9.jpg"
+    },
+    {
+      "id": "The Verve",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/singer-lizz-wright-at-the-verve-music-group-office-on-broadway-picture-id97300204"
+    },
+    {
+      "id": "The Wallflowers",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://www.uofmusic.com/wp-content/uploads/2016/03/mgid-uma-video-mtv.com-11402.jpg"
+    },
+    {
+      "id": "The Waterboys",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b3/The_Big_Music_Waterboys_Single_Cover.jpg"
+    },
+    {
+      "id": "The Who",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://www.acappellanews.com/images/brutha.jpg"
+    },
+    {
+      "id": "The Yardbirds",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2013/03/yardbirds-John-Pratt-Hulton.jpg"
+    },
+    {
+      "id": "The Youngbloods",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Youngbloods_1968.JPG/220px-The_Youngbloods_1968.JPG"
+    },
+    {
+      "id": "The Zombies",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://jmeshel.com/wp-content/uploads/2010/03/zombies1.jpg"
+    },
+    {
+      "id": "Them",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://previews.123rf.com/images/bakelyt/bakelyt1104/bakelyt110400642/9427781-Rock-group-singers-theme-Stock-Vector-rock-band-music.jpg"
+    },
+    {
+      "id": "Thin Lizzy",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2012/10/Thin-Lizzy-2012.jpg"
+    },
+    {
+      "id": "Thomas Dolby",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://i2.cdn.cnn.com/cnnnext/dam/assets/150629154607-15-live-aid-30-thomas-dolby-restricted-super-169.jpg"
+    },
+    {
+      "id": "Thompson Twins",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://i.pinimg.com/736x/08/af/e1/08afe145af90d6244af2170aaafb66a6--thompson-twins-the-band.jpg"
+    },
+    {
+      "id": "Three Dog Night",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://media2.s-nbcnews.com/j/msnbc/components/video/151022/tdy_mor_dog_151022.nbcnews-ux-1080-600.jpg"
+    },
+    {
+      "id": "'Til Tuesday",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/db/4b/7c/db4b7ce4ae0ed203654b6f12780d2efd.jpg"
+    },
+    {
+      "id": "Tina Dico",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.UTu-HDGLyT-NeZ1NAiPDCQHaMT&pid=Api"
+    },
+    {
+      "id": "Tina Turner",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "http://www.luisamarshall.com/kimi/wp-content/uploads/2013/01/PNE-2013-Luisas-pics2-at-1.10.10-PM-Marshall-PNE-2013-Luisa-Marshall-as-Tina-Turner-20130831-Day-2.jpg"
+    },
+    {
+      "id": "TLC",
+      "decade": 1990,
+      "genre": "POP",
+      "image": "http://i.dailymail.co.uk/i/pix/2013/11/15/article-2507646-196BD3A400000578-767_644x939.jpg"
+    },
+    {
+      "id": "Toad the Wet Sprocket",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Toad_the_Wet_Sprocket_2014.jpg/220px-Toad_the_Wet_Sprocket_2014.jpg"
+    },
+    {
+      "id": "Todd Rundgren",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/9/94/Todd_Rundgren_at_Revolution_Live_(cropped).jpg"
+    },
+    {
+      "id": "Tom Johnston",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://media.gettyimages.com/photos/guitarist-tom-johnston-performing-with-american-rock-group-the-doobie-picture-id462126307?s=594x594"
+    },
+    {
+      "id": "Tom Jones",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tom_Jones_concert.jpg"
+    },
+    {
+      "id": "Tom Middleton",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "http://i1.wp.com/trancelife.us/wp-content/uploads/2015/07/DJ-Tom-Middleton.jpg?resize=1280%2C640"
+    },
+    {
+      "id": "Tom Petty",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/9c/2e/81/9c2e816502682d95666631be84ea1f2d.jpg"
+    },
+    {
+      "id": "Tom Rush",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.ramsheadgroup.com/files/2014/04/rush-3fd63bc2d1dd60ded3c0a363044ca03ee1d96074-s6-c30.jpg"
+    },
+    {
+      "id": "Tommy James and the Shondells",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/c/ca/Tommy_James_and_the_Shondells.png"
+    },
+    {
+      "id": "Tommy Roe",
+      "decade": 1960,
+      "genre": "POP",
+      "image": "http://l7.alamy.com/zooms/38d9b4ecd71e4ea591db280b789b4306/pop-singer-tommy-roe-front-right-with-his-group-the-roemans-waiting-ekp5m0.jpg"
+    },
+    {
+      "id": "Tony Banks",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://c7.alamy.com/comp/B4J409/phil-collins-singer-songwriter-actor-rock-group-genesis-with-mike-B4J409.jpg"
+    },
+    {
+      "id": "Tony Orlando and Dawn",
+      "decade": 1970,
+      "genre": "POP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tony_Orlando_and_Dawn_1974.JPG/220px-Tony_Orlando_and_Dawn_1974.JPG"
+    },
+    {
+      "id": "Tori Amos",
+      "decade": 1990,
+      "genre": "POP",
+      "image": "http://static.stereogum.com/uploads/2014/06/toriamos.jpg"
+    },
+    {
+      "id": "Toto",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://www.smoothvibes.com/movabletype/img/Toto.jpg"
+    },
+    {
+      "id": "Tower of Power",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "http://www.towerofpower.com/images/uploads/band2_sm.jpg"
+    },
+    {
+      "id": "Tracy Chapman",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://www.audio-music.info/pic/Chapman_Tracy.jpg"
+    },
+    {
+      "id": "Traffic",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2012/12/traffic-Keystone-Hulton-Arc.jpg"
+    },
+    {
+      "id": "Traveling Wilburys",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/05/ff/62/05ff623728331e7da5ea15bc78f99302.jpg"
+    },
+    {
+      "id": "Travis",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Travis-Wiltern-21Nov2007.jpg/267px-Travis-Wiltern-21Nov2007.jpg"
+    },
+    {
+      "id": "Trey Anastasio",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://media.npr.org/assets/img/2015/10/16/treyanastasioband_web_res_wide-d9e879ba201323fef9623b5923ad40ae1cad89b6.jpg?s=1400"
+    },
+    {
+      "id": "Tycho",
+      "decade": 2010,
+      "genre": "CHILL",
+      "image": "http://gapersblock.com/transmission/Tycho-5655.jpg"
+    },
+    {
+      "id": "U2",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/2005-11-21_U2_@_MSG_by_ZG.JPG"
+    },
+    {
+      "id": "UB40",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "http://cdn.images.express.co.uk/img/dynamic/35/590x/ub1-476058.jpg"
+    },
+    {
+      "id": "Van Halen",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://ultimateclassicrock.com/files/2012/10/Van-halen-pic.jpg"
+    },
+    {
+      "id": "Van Morrison",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://cdn.pastemagazine.com/www/articles/van%20morrison%20list%20main.jpg"
+    },
+    {
+      "id": "Vanilla Fudge",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "http://www.progarchives.com/progressive_rock_discography_band/866.jpg"
+    },
+    {
+      "id": "Venus Hum",
+      "decade": 2000,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Venus_Hum_San_Francisco_2008-01-17.jpg/220px-Venus_Hum_San_Francisco_2008-01-17.jpg"
+    },
+    {
+      "id": "Wanda Jackson",
+      "decade": 1960,
+      "genre": "COUNTRY",
+      "image": "http://graphics8.nytimes.com/images/2011/02/27/t-magazine/27talk-wanda/27talk-wanda-custom5.jpg"
+    },
+    {
+      "id": "War",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/WarOriginalLineup_01.jpg/200px-WarOriginalLineup_01.jpg"
+    },
+    {
+      "id": "Warren Zevon",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqj1n.jpg"
+    },
+    {
+      "id": "Weezer",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Weezer_2005.jpg"
+    },
+    {
+      "id": "Wham!",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "http://newsimg.bbc.co.uk/media/images/40960000/jpg/_40960085_wham203.jpg"
+    },
+    {
+      "id": "Whitney Houston",
+      "decade": 1980,
+      "genre": "POP",
+      "image": "https://www.billboard.com/files/media/whitney-houston-1993-billboard-1548.jpg"
+    },
+    {
+      "id": "Wilco",
+      "decade": 1990,
+      "genre": "CHILL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Wilco_MassMoca_AustinNelson.png"
+    },
+    {
+      "id": "Wild Cherry",
+      "decade": 1970,
+      "genre": "SOUL",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Wild_Cherry.jpg"
+    },
+    {
+      "id": "Willie Nelson",
+      "decade": 1960,
+      "genre": "COUNTRY",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Willie_Nelson_930_club_2012_-_8.jpg/250px-Willie_Nelson_930_club_2012_-_8.jpg"
+    },
+    {
+      "id": "Wilson Pickett",
+      "decade": 1960,
+      "genre": "SOUL",
+      "image": "http://media.salon.com/2013/07/AP01050402231-1280x960.jpg"
+    },
+    {
+      "id": "World Party",
+      "decade": 1990,
+      "genre": "ROCK",
+      "image": "http://www.pauseandplay.com/wp-content/uploads/2013/04/worldparty.jpg"
+    },
+    {
+      "id": "X",
+      "decade": 1980,
+      "genre": "ROCK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/X_2004.jpg/230px-X_2004.jpg"
+    },
+    {
+      "id": "XTC",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://diffuser.fm/files/2013/09/XTC-promo-photo.jpg"
+    },
+    {
+      "id": "Yes",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "http://images.usatoday.com/Wires2Web/20080605/3380088983_Music_Yesx.jpg"
+    },
+    {
+      "id": "Zager and Evans",
+      "decade": 1960,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/564x/c0/52/e8/c052e8f5344eb2b7d8fe01e6392e7342.jpg"
+    },
+    {
+      "id": "Zero 7",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "http://www.rightchordmusic.co.uk/wp/wp-content/uploads/2015/08/dear-plastic-001.jpg"
+    },
+    {
+      "id": "Ziggy Marley",
+      "decade": 2000,
+      "genre": "REGGAE",
+      "image": "http://questgarden.com/106/46/3/100709090340/images/Ziggy%20Marley.jpg"
+    },
+    {
+      "id": "Zoe Johnston",
+      "decade": 2000,
+      "genre": "CHILL",
+      "image": "https://i.ytimg.com/vi/DNNEF03aYPg/hqdefault.jpg"
+    },
+    {
+      "id": "ZZ Top",
+      "decade": 1970,
+      "genre": "ROCK",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/7b/95/7f/7b957fdcf0b04cec4e3821f0fddacfbf.jpg"
+    }
+  ]
+}

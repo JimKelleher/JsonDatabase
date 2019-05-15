@@ -1,0 +1,948 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8BF3FCEC-F260-4483-92DB-1472B0CEBAC8}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Database</RootNamespace>
+    <AssemblyName>Database</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;WEB_FORM</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.2.1\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AboutTable.ascx.cs">
+      <DependentUpon>AboutTable.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AboutTableInit.cs" />
+    <Compile Include="AboutTableInitBase.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CodeController.cs" />
+    <Compile Include="Controllers\ArtistController.cs" />
+    <Compile Include="Controllers\ArtistDiscogController.cs" />
+    <Compile Include="Controllers\ArtistVideoController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="JsonPath.cs" />
+    <Compile Include="Models\Code.cs" />
+    <Compile Include="Models\Artist.cs" />
+    <Compile Include="Models\ArtistDiscog.cs" />
+    <Compile Include="Models\ArtistVideo.cs" />
+    <Compile Include="Models\RootObject.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Startup.cs" />
+    <Compile Include="WorkingWebHostServices.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1.png" />
+    <Content Include="About.aspx" />
+    <Content Include="AboutTable.ascx" />
+    <Content Include="AboutTable.css" />
+    <Content Include="asp.JPG" />
+    <Content Include="banner.css" />
+    <Content Include="c_sharp_2010.jpg" />
+    <Content Include="dot_net_4_2.jpg" />
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="godaddy.jpg" />
+    <Content Include="Images\Artist\%27Til Tuesday.jpg" />
+    <Content Include="Images\Artist\10,000 Maniacs.jpg" />
+    <Content Include="Images\Artist\10cc.jpg" />
+    <Content Include="Images\Artist\A Flock of Seagulls.jpg" />
+    <Content Include="Images\Artist\Aaron Neville.jpg" />
+    <Content Include="Images\Artist\ABBA.jpg" />
+    <Content Include="Images\Artist\ABC.jpg" />
+    <Content Include="Images\Artist\Above Beyond.jpg" />
+    <Content Include="Images\Artist\ACDC.jpg" />
+    <Content Include="Images\Artist\Adele.jpg" />
+    <Content Include="Images\Artist\Aerosmith.jpg" />
+    <Content Include="Images\Artist\Aimee Mann.jpg" />
+    <Content Include="Images\Artist\Air Supply.jpg" />
+    <Content Include="Images\Artist\Air.jpg" />
+    <Content Include="Images\Artist\Al Green.jpg" />
+    <Content Include="Images\Artist\Al Stewart.jpg" />
+    <Content Include="Images\Artist\Alanis Morissette.jpg" />
+    <Content Include="Images\Artist\Alice Cooper.jpg" />
+    <Content Include="Images\Artist\Ambrosia.jpg" />
+    <Content Include="Images\Artist\America.jpg" />
+    <Content Include="Images\Artist\and the Mysterians.jpg" />
+    <Content Include="Images\Artist\Andrew Gold.jpg" />
+    <Content Include="Images\Artist\Anita Baker.jpg" />
+    <Content Include="Images\Artist\Annie Lennox.jpg" />
+    <Content Include="Images\Artist\Aretha Franklin.jpg" />
+    <Content Include="Images\Artist\Argent.jpg" />
+    <Content Include="Images\Artist\Art Garfunkel.jpg" />
+    <Content Include="Images\Artist\Asia.jpg" />
+    <Content Include="Images\Artist\Average White Band.jpg" />
+    <Content Include="Images\Artist\B.B. King.jpg" />
+    <Content Include="Images\Artist\Bachman-Turner Overdrive.jpg" />
+    <Content Include="Images\Artist\Bad Company.jpg" />
+    <Content Include="Images\Artist\Badfinger.jpg" />
+    <Content Include="Images\Artist\Balligomingo.jpg" />
+    <Content Include="Images\Artist\Barbra Streisand.jpg" />
+    <Content Include="Images\Artist\Barry White.jpg" />
+    <Content Include="Images\Artist\Beck.jpg" />
+    <Content Include="Images\Artist\Bee Gees.jpg" />
+    <Content Include="Images\Artist\Belinda Carlisle.jpg" />
+    <Content Include="Images\Artist\Ben E. King.jpg" />
+    <Content Include="Images\Artist\Bent.jpg" />
+    <Content Include="Images\Artist\Bette Midler.jpg" />
+    <Content Include="Images\Artist\Bic Runga.jpg" />
+    <Content Include="Images\Artist\Big Audio Dynamite.jpg" />
+    <Content Include="Images\Artist\Big Brother and the Holding Company.jpg" />
+    <Content Include="Images\Artist\Big Country.jpg" />
+    <Content Include="Images\Artist\Bill Withers.jpg" />
+    <Content Include="Images\Artist\Billy Idol.jpg" />
+    <Content Include="Images\Artist\Billy Joel.jpg" />
+    <Content Include="Images\Artist\Billy Ocean.jpg" />
+    <Content Include="Images\Artist\Billy Paul.jpg" />
+    <Content Include="Images\Artist\Billy Preston.jpg" />
+    <Content Include="Images\Artist\Bjork.jpg" />
+    <Content Include="Images\Artist\Black Sabbath.jpg" />
+    <Content Include="Images\Artist\Blackmore%27s Night.jpg" />
+    <Content Include="Images\Artist\Blind Faith.jpg" />
+    <Content Include="Images\Artist\Blind Melon.jpg" />
+    <Content Include="Images\Artist\Blondie.jpg" />
+    <Content Include="Images\Artist\Blood, Sweat Tears.jpg" />
+    <Content Include="Images\Artist\Blue Oyster Cult.jpg" />
+    <Content Include="Images\Artist\Blues Image.jpg" />
+    <Content Include="Images\Artist\Bo Diddley.jpg" />
+    <Content Include="Images\Artist\Bob Dylan.jpg" />
+    <Content Include="Images\Artist\Bob Marley.jpg" />
+    <Content Include="Images\Artist\Bob Seger.jpg" />
+    <Content Include="Images\Artist\Bobbie Gentry.jpg" />
+    <Content Include="Images\Artist\Bobby Darin.jpg" />
+    <Content Include="Images\Artist\Bobby Hebb.jpg" />
+    <Content Include="Images\Artist\Bobby Rydell.jpg" />
+    <Content Include="Images\Artist\Bon Iver.jpg" />
+    <Content Include="Images\Artist\Bon Jovi.jpg" />
+    <Content Include="Images\Artist\Bonnie Raitt.jpg" />
+    <Content Include="Images\Artist\Bonobo.jpg" />
+    <Content Include="Images\Artist\Booker T. the M.G.%27s.jpg" />
+    <Content Include="Images\Artist\Boston.jpg" />
+    <Content Include="Images\Artist\Boz Scaggs.jpg" />
+    <Content Include="Images\Artist\Bread.jpg" />
+    <Content Include="Images\Artist\Bruce Springsteen.jpg" />
+    <Content Include="Images\Artist\Bruno Mars.jpg" />
+    <Content Include="Images\Artist\Bryan Adams.jpg" />
+    <Content Include="Images\Artist\Bryan Ferry.jpg" />
+    <Content Include="Images\Artist\Buddy Holly.jpg" />
+    <Content Include="Images\Artist\Buffalo Springfield.jpg" />
+    <Content Include="Images\Artist\Burton Cummings.jpg" />
+    <Content Include="Images\Artist\Cara Dillon.jpg" />
+    <Content Include="Images\Artist\Carl Perkins.jpg" />
+    <Content Include="Images\Artist\Carly Simon.jpg" />
+    <Content Include="Images\Artist\Carole King.jpg" />
+    <Content Include="Images\Artist\Carrie Underwood.jpg" />
+    <Content Include="Images\Artist\Cass Elliot.jpg" />
+    <Content Include="Images\Artist\Cat Stevens.jpg" />
+    <Content Include="Images\Artist\CeeLo Green.jpg" />
+    <Content Include="Images\Artist\Chad Jeremy.jpg" />
+    <Content Include="Images\Artist\Charlie Daniels.jpg" />
+    <Content Include="Images\Artist\Charlie Rich.jpg" />
+    <Content Include="Images\Artist\Cheap Trick.jpg" />
+    <Content Include="Images\Artist\Cher.jpg" />
+    <Content Include="Images\Artist\Chet Atkins.jpg" />
+    <Content Include="Images\Artist\Chic.jpg" />
+    <Content Include="Images\Artist\Chicago.jpg" />
+    <Content Include="Images\Artist\Chris Isaak.jpg" />
+    <Content Include="Images\Artist\Chris Squire.jpg" />
+    <Content Include="Images\Artist\Christopher Cross.jpg" />
+    <Content Include="Images\Artist\Chuck Berry.jpg" />
+    <Content Include="Images\Artist\Coldplay.jpg" />
+    <Content Include="Images\Artist\Collective Soul.jpg" />
+    <Content Include="Images\Artist\Commodores.jpg" />
+    <Content Include="Images\Artist\Conway Twitty.jpg" />
+    <Content Include="Images\Artist\Counting Crows.jpg" />
+    <Content Include="Images\Artist\Cream.jpg" />
+    <Content Include="Images\Artist\Creedence Clearwater Revival.jpg" />
+    <Content Include="Images\Artist\Crosby, Stills, Nash Young.jpg" />
+    <Content Include="Images\Artist\Crowded House.jpg" />
+    <Content Include="Images\Artist\Culture Club.jpg" />
+    <Content Include="Images\Artist\Curtis Mayfield.jpg" />
+    <Content Include="Images\Artist\Cyndi Lauper.jpg" />
+    <Content Include="Images\Artist\Damian Marley.jpg" />
+    <Content Include="Images\Artist\Dan Fogelberg.jpg" />
+    <Content Include="Images\Artist\Dan Hill.jpg" />
+    <Content Include="Images\Artist\Dave Edmunds.jpg" />
+    <Content Include="Images\Artist\Dave Mason.jpg" />
+    <Content Include="Images\Artist\Dave Matthews Band.jpg" />
+    <Content Include="Images\Artist\David Bowie.jpg" />
+    <Content Include="Images\Artist\David Byrne.jpg" />
+    <Content Include="Images\Artist\David Crosby.jpg" />
+    <Content Include="Images\Artist\David Gates.jpg" />
+    <Content Include="Images\Artist\David Gilmour.jpg" />
+    <Content Include="Images\Artist\David Guetta.jpg" />
+    <Content Include="Images\Artist\David Lee Roth.jpg" />
+    <Content Include="Images\Artist\Deep Purple.jpg" />
+    <Content Include="Images\Artist\Def Leppard.jpg" />
+    <Content Include="Images\Artist\Del Shannon.jpg" />
+    <Content Include="Images\Artist\Delerium.jpg" />
+    <Content Include="Images\Artist\Depeche Mode.jpg" />
+    <Content Include="Images\Artist\Derek and the Dominos.jpg" />
+    <Content Include="Images\Artist\Diana Ross.jpg" />
+    <Content Include="Images\Artist\Dick Dale.jpg" />
+    <Content Include="Images\Artist\Dickey Betts.jpg" />
+    <Content Include="Images\Artist\Dido.jpg" />
+    <Content Include="Images\Artist\Dion DiMucci.jpg" />
+    <Content Include="Images\Artist\Dionne Warwick.jpg" />
+    <Content Include="Images\Artist\Dire Straits.jpg" />
+    <Content Include="Images\Artist\Dixie Chicks.jpg" />
+    <Content Include="Images\Artist\Dobie Gray.jpg" />
+    <Content Include="Images\Artist\Dolly Parton.jpg" />
+    <Content Include="Images\Artist\Don Henley.jpg" />
+    <Content Include="Images\Artist\Don McLean.jpg" />
+    <Content Include="Images\Artist\Donna Summer.jpg" />
+    <Content Include="Images\Artist\Donnie Iris.jpg" />
+    <Content Include="Images\Artist\Donovan.jpg" />
+    <Content Include="Images\Artist\Dorian Concept.jpg" />
+    <Content Include="Images\Artist\Dr. Hook the Medicine Show.jpg" />
+    <Content Include="Images\Artist\Duane Eddy.jpg" />
+    <Content Include="Images\Artist\Duran Duran.jpg" />
+    <Content Include="Images\Artist\Dusty Springfield.jpg" />
+    <Content Include="Images\Artist\Eagles.jpg" />
+    <Content Include="Images\Artist\Earth, Wind Fire.jpg" />
+    <Content Include="Images\Artist\Echo the Bunnymen.jpg" />
+    <Content Include="Images\Artist\Eddie Cochran.jpg" />
+    <Content Include="Images\Artist\Eddie Kendricks.jpg" />
+    <Content Include="Images\Artist\Edie Brickell.jpg" />
+    <Content Include="Images\Artist\Edward Sharpe and the Magnetic Zeros.jpg" />
+    <Content Include="Images\Artist\Electric Light Orchestra.jpg" />
+    <Content Include="Images\Artist\Elliott Smith.jpg" />
+    <Content Include="Images\Artist\Elton John.jpg" />
+    <Content Include="Images\Artist\Elvin Bishop.jpg" />
+    <Content Include="Images\Artist\Elvis Costello.jpg" />
+    <Content Include="Images\Artist\Elvis Presley.jpg" />
+    <Content Include="Images\Artist\Emerson, Lake Palmer.jpg" />
+    <Content Include="Images\Artist\Emika.jpg" />
+    <Content Include="Images\Artist\Emmylou Harris.jpg" />
+    <Content Include="Images\Artist\England Dan John Ford Coley.jpg" />
+    <Content Include="Images\Artist\Enya.jpg" />
+    <Content Include="Images\Artist\Eric Burdon.jpg" />
+    <Content Include="Images\Artist\Eric Carmen.jpg" />
+    <Content Include="Images\Artist\Eric Clapton.jpg" />
+    <Content Include="Images\Artist\Eurythmics.jpg" />
+    <Content Include="Images\Artist\Everything but the Girl.jpg" />
+    <Content Include="Images\Artist\Faces.jpg" />
+    <Content Include="Images\Artist\Faithless.jpg" />
+    <Content Include="Images\Artist\Fats Domino.jpg" />
+    <Content Include="Images\Artist\Fine Young Cannibals.jpg" />
+    <Content Include="Images\Artist\Fiona Apple.jpg" />
+    <Content Include="Images\Artist\Five for Fighting.jpg" />
+    <Content Include="Images\Artist\Five Stairsteps.jpg" />
+    <Content Include="Images\Artist\Fleetwood Mac.jpg" />
+    <Content Include="Images\Artist\Florence and the Machine.jpg" />
+    <Content Include="Images\Artist\Flunk.jpg" />
+    <Content Include="Images\Artist\Foghat.jpg" />
+    <Content Include="Images\Artist\Foreigner.jpg" />
+    <Content Include="Images\Artist\Foster the People.jpg" />
+    <Content Include="Images\Artist\Four Tops.jpg" />
+    <Content Include="Images\Artist\Frank Sinatra.jpg" />
+    <Content Include="Images\Artist\Frankie Lymon.jpg" />
+    <Content Include="Images\Artist\Frankie Valli.jpg" />
+    <Content Include="Images\Artist\Freda Payne.jpg" />
+    <Content Include="Images\Artist\Frou Frou.jpg" />
+    <Content Include="Images\Artist\Gary Numan.jpg" />
+    <Content Include="Images\Artist\Gary Puckett The Union Gap.jpg" />
+    <Content Include="Images\Artist\Gary Wright.jpg" />
+    <Content Include="Images\Artist\Gene Pitney.jpg" />
+    <Content Include="Images\Artist\General Public.jpg" />
+    <Content Include="Images\Artist\Genesis.jpg" />
+    <Content Include="Images\Artist\George Benson.jpg" />
+    <Content Include="Images\Artist\George Clinton.jpg" />
+    <Content Include="Images\Artist\George Harrison.jpg" />
+    <Content Include="Images\Artist\George Jones.jpg" />
+    <Content Include="Images\Artist\George Michael.jpg" />
+    <Content Include="Images\Artist\Gerry and the Pacemakers.jpg" />
+    <Content Include="Images\Artist\Gerry Rafferty.jpg" />
+    <Content Include="Images\Artist\Gladys Knight the Pips.jpg" />
+    <Content Include="Images\Artist\Glen Campbell.jpg" />
+    <Content Include="Images\Artist\Glenn Frey.jpg" />
+    <Content Include="Images\Artist\Gloria Estefan.jpg" />
+    <Content Include="Images\Artist\Gloria Gaynor.jpg" />
+    <Content Include="Images\Artist\Goldfrapp.jpg" />
+    <Content Include="Images\Artist\Gordon Lightfoot.jpg" />
+    <Content Include="Images\Artist\Graham Parker.jpg" />
+    <Content Include="Images\Artist\Gram Parsons.jpg" />
+    <Content Include="Images\Artist\Grand Funk Railroad.jpg" />
+    <Content Include="Images\Artist\Grateful Dead.jpg" />
+    <Content Include="Images\Artist\Green Day.jpg" />
+    <Content Include="Images\Artist\Gregg Allman.jpg" />
+    <Content Include="Images\Artist\Guns N%27 Roses.jpg" />
+    <Content Include="Images\Artist\Gwen Stefani.jpg" />
+    <Content Include="Images\Artist\Hall Oates.jpg" />
+    <Content Include="Images\Artist\Hank Williams.jpg" />
+    <Content Include="Images\Artist\Harold Melvin the Blue Notes.jpg" />
+    <Content Include="Images\Artist\Harry Chapin.jpg" />
+    <Content Include="Images\Artist\Harry Nilsson.jpg" />
+    <Content Include="Images\Artist\Heart.jpg" />
+    <Content Include="Images\Artist\Henry Mancini.jpg" />
+    <Content Include="Images\Artist\Herb Alpert.jpg" />
+    <Content Include="Images\Artist\Herman%27s Hermits.jpg" />
+    <Content Include="Images\Artist\Hot Chocolate.jpg" />
+    <Content Include="Images\Artist\Howard Jones.jpg" />
+    <Content Include="Images\Artist\Huey Lewis and the News.jpg" />
+    <Content Include="Images\Artist\Humble Pie.jpg" />
+    <Content Include="Images\Artist\Iggy Pop.jpg" />
+    <Content Include="Images\Artist\INXS.jpg" />
+    <Content Include="Images\Artist\Iron Butterfly.jpg" />
+    <Content Include="Images\Artist\Isaac Hayes.jpg" />
+    <Content Include="Images\Artist\It%27s a Beautiful Day.jpg" />
+    <Content Include="Images\Artist\Ivy.jpg" />
+    <Content Include="Images\Artist\Jackie Wilson.jpg" />
+    <Content Include="Images\Artist\Jackson Browne.jpg" />
+    <Content Include="Images\Artist\Jakob Dylan.jpg" />
+    <Content Include="Images\Artist\James Brown.jpg" />
+    <Content Include="Images\Artist\James Taylor.jpg" />
+    <Content Include="Images\Artist\Jane%27s Addiction.jpg" />
+    <Content Include="Images\Artist\Janet Jackson.jpg" />
+    <Content Include="Images\Artist\Janis Joplin.jpg" />
+    <Content Include="Images\Artist\Jeff Beck.jpg" />
+    <Content Include="Images\Artist\Jefferson Airplane.jpg" />
+    <Content Include="Images\Artist\Jefferson Starship.jpg" />
+    <Content Include="Images\Artist\Jem.jpg" />
+    <Content Include="Images\Artist\Jerry Lee Lewis.jpg" />
+    <Content Include="Images\Artist\Jesse Colin Young.jpg" />
+    <Content Include="Images\Artist\Jethro Tull.jpg" />
+    <Content Include="Images\Artist\Jim Croce.jpg" />
+    <Content Include="Images\Artist\Jimi Hendrix.jpg" />
+    <Content Include="Images\Artist\Jimmy Buffett.jpg" />
+    <Content Include="Images\Artist\Jimmy Cliff.jpg" />
+    <Content Include="Images\Artist\Jimmy Page.jpg" />
+    <Content Include="Images\Artist\Jimmy Webb.jpg" />
+    <Content Include="Images\Artist\Joan Baez.jpg" />
+    <Content Include="Images\Artist\Joan Jett.jpg" />
+    <Content Include="Images\Artist\Joe Cocker.jpg" />
+    <Content Include="Images\Artist\Joe Jackson.jpg" />
+    <Content Include="Images\Artist\Joe Strummer.jpg" />
+    <Content Include="Images\Artist\Joe Walsh.jpg" />
+    <Content Include="Images\Artist\John Denver.jpg" />
+    <Content Include="Images\Artist\John Fogerty.jpg" />
+    <Content Include="Images\Artist\John Hiatt.jpg" />
+    <Content Include="Images\Artist\John Lennon.jpg" />
+    <Content Include="Images\Artist\John Mayall.jpg" />
+    <Content Include="Images\Artist\John Mayer.jpg" />
+    <Content Include="Images\Artist\John Mellencamp.jpg" />
+    <Content Include="Images\Artist\Johnny Burnette.jpg" />
+    <Content Include="Images\Artist\Johnny Cash.jpg" />
+    <Content Include="Images\Artist\Johnny Rivers.jpg" />
+    <Content Include="Images\Artist\Jon Anderson.jpg" />
+    <Content Include="Images\Artist\Jonathan Cain.jpg" />
+    <Content Include="Images\Artist\Joni Mitchell.jpg" />
+    <Content Include="Images\Artist\Jose Feliciano.jpg" />
+    <Content Include="Images\Artist\Jose Gonzalez.jpg" />
+    <Content Include="Images\Artist\Journey.jpg" />
+    <Content Include="Images\Artist\Joy Division.jpg" />
+    <Content Include="Images\Artist\Judy Collins.jpg" />
+    <Content Include="Images\Artist\Julian Lennon.jpg" />
+    <Content Include="Images\Artist\Justin Timberlake.jpg" />
+    <Content Include="Images\Artist\Kansas.jpg" />
+    <Content Include="Images\Artist\Kate Bush.jpg" />
+    <Content Include="Images\Artist\Kate Havnevik.jpg" />
+    <Content Include="Images\Artist\Keane.jpg" />
+    <Content Include="Images\Artist\Kelly Rowland.jpg" />
+    <Content Include="Images\Artist\Kenny Loggins.jpg" />
+    <Content Include="Images\Artist\Kenny Rogers and The First Edition.jpg" />
+    <Content Include="Images\Artist\Kenny Rogers.jpg" />
+    <Content Include="Images\Artist\Kim Wilde.jpg" />
+    <Content Include="Images\Artist\King Crimson.jpg" />
+    <Content Include="Images\Artist\Kool the Gang.jpg" />
+    <Content Include="Images\Artist\Kris Kristofferson.jpg" />
+    <Content Include="Images\Artist\Labelle.jpg" />
+    <Content Include="Images\Artist\Lady Gaga.jpg" />
+    <Content Include="Images\Artist\Lana Del Rey.jpg" />
+    <Content Include="Images\Artist\Led Zeppelin.jpg" />
+    <Content Include="Images\Artist\Lenny Kravitz.jpg" />
+    <Content Include="Images\Artist\Leo Sayer.jpg" />
+    <Content Include="Images\Artist\Leonard Cohen.jpg" />
+    <Content Include="Images\Artist\Lesley Gore.jpg" />
+    <Content Include="Images\Artist\Letters to Cleo.jpg" />
+    <Content Include="Images\Artist\Level 42.jpg" />
+    <Content Include="Images\Artist\Lily Allen.jpg" />
+    <Content Include="Images\Artist\Linda Ronstadt.jpg" />
+    <Content Include="Images\Artist\Lindsey Buckingham.jpg" />
+    <Content Include="Images\Artist\Lionel Richie.jpg" />
+    <Content Include="Images\Artist\Little Feat.jpg" />
+    <Content Include="Images\Artist\Little Richard.jpg" />
+    <Content Include="Images\Artist\Lobo.jpg" />
+    <Content Include="Images\Artist\Loggins and Messina.jpg" />
+    <Content Include="Images\Artist\Looking Glass.jpg" />
+    <Content Include="Images\Artist\Loretta Lynn and Conway Twitty.jpg" />
+    <Content Include="Images\Artist\Los Lobos.jpg" />
+    <Content Include="Images\Artist\Lou Christie.jpg" />
+    <Content Include="Images\Artist\Lou Rawls.jpg" />
+    <Content Include="Images\Artist\Lou Reed.jpg" />
+    <Content Include="Images\Artist\Lucinda Williams.jpg" />
+    <Content Include="Images\Artist\Lukas Graham.jpg" />
+    <Content Include="Images\Artist\Lulu.jpg" />
+    <Content Include="Images\Artist\Luther Vandross.jpg" />
+    <Content Include="Images\Artist\Lyle Lovett.jpg" />
+    <Content Include="Images\Artist\Lynyrd Skynyrd.jpg" />
+    <Content Include="Images\Artist\Mac Davis.jpg" />
+    <Content Include="Images\Artist\Madonna.jpg" />
+    <Content Include="Images\Artist\Manfred Mann%27s Earth Band.jpg" />
+    <Content Include="Images\Artist\Manfred Mann.jpg" />
+    <Content Include="Images\Artist\Manic Street Preachers.jpg" />
+    <Content Include="Images\Artist\Marianne Faithfull.jpg" />
+    <Content Include="Images\Artist\Marilyn McCoo Billy Davis, Jr.jpg" />
+    <Content Include="Images\Artist\Mark Knopfler.jpg" />
+    <Content Include="Images\Artist\Mark Lindsay.jpg" />
+    <Content Include="Images\Artist\Marshall Crenshaw.jpg" />
+    <Content Include="Images\Artist\Martha and the Vandellas.jpg" />
+    <Content Include="Images\Artist\Marvin Gaye.jpg" />
+    <Content Include="Images\Artist\Mason Williams.jpg" />
+    <Content Include="Images\Artist\Massive Attack.jpg" />
+    <Content Include="Images\Artist\Matchbox Twenty.jpg" />
+    <Content Include="Images\Artist\Matthew Sweet.jpg" />
+    <Content Include="Images\Artist\Maureen McGovern.jpg" />
+    <Content Include="Images\Artist\MC Hammer.jpg" />
+    <Content Include="Images\Artist\Meat Loaf.jpg" />
+    <Content Include="Images\Artist\Melanie.jpg" />
+    <Content Include="Images\Artist\Men at Work.jpg" />
+    <Content Include="Images\Artist\Michael Jackson.jpg" />
+    <Content Include="Images\Artist\Michael McDonald.jpg" />
+    <Content Include="Images\Artist\Michael Penn.jpg" />
+    <Content Include="Images\Artist\Mick Jagger.jpg" />
+    <Content Include="Images\Artist\Midnight Oil.jpg" />
+    <Content Include="Images\Artist\Mike and the Mechanics.jpg" />
+    <Content Include="Images\Artist\Mike Rutherford.jpg" />
+    <Content Include="Images\Artist\Miles Davis.jpg" />
+    <Content Include="Images\Artist\Missing Persons.jpg" />
+    <Content Include="Images\Artist\Mitch Ryder.jpg" />
+    <Content Include="Images\Artist\Moby Grape.jpg" />
+    <Content Include="Images\Artist\Moby.jpg" />
+    <Content Include="Images\Artist\Modern English.jpg" />
+    <Content Include="Images\Artist\Molly Hatchet.jpg" />
+    <Content Include="Images\Artist\Morrissey.jpg" />
+    <Content Include="Images\Artist\Mott the Hoople.jpg" />
+    <Content Include="Images\Artist\Mozez.jpg" />
+    <Content Include="Images\Artist\Mudcrutch.jpg" />
+    <Content Include="Images\Artist\Muddy Waters.jpg" />
+    <Content Include="Images\Artist\Murray Head.jpg" />
+    <Content Include="Images\Artist\Muse.jpg" />
+    <Content Include="Images\Artist\Natalie Imbruglia.jpg" />
+    <Content Include="Images\Artist\Natalie Merchant.jpg" />
+    <Content Include="Images\Artist\Natasha Bedingfield.jpg" />
+    <Content Include="Images\Artist\Neil Diamond.jpg" />
+    <Content Include="Images\Artist\Neil Sedaka.jpg" />
+    <Content Include="Images\Artist\Neil Young.jpg" />
+    <Content Include="Images\Artist\Nelly Furtado.jpg" />
+    <Content Include="Images\Artist\Neon Heights.jpg" />
+    <Content Include="Images\Artist\New Order.jpg" />
+    <Content Include="Images\Artist\New York Dolls.jpg" />
+    <Content Include="Images\Artist\Nick Lowe.jpg" />
+    <Content Include="Images\Artist\Nickelback.jpg" />
+    <Content Include="Images\Artist\Nils Lofgren.jpg" />
+    <Content Include="Images\Artist\Nine Inch Nails.jpg" />
+    <Content Include="Images\Artist\Nirvana.jpg" />
+    <Content Include="Images\Artist\No Doubt.jpg" />
+    <Content Include="Images\Artist\Norman Greenbaum.jpg" />
+    <Content Include="Images\Artist\Oasis.jpg" />
+    <Content Include="Images\Artist\Ohio Players.jpg" />
+    <Content Include="Images\Artist\Olivia Newton-John.jpg" />
+    <Content Include="Images\Artist\Otis Redding.jpg" />
+    <Content Include="Images\Artist\Outlaws.jpg" />
+    <Content Include="Images\Artist\Ozzy Osbourne.jpg" />
+    <Content Include="Images\Artist\Pablo Cruise.jpg" />
+    <Content Include="Images\Artist\Pat Benatar.jpg" />
+    <Content Include="Images\Artist\Patrick Simmons.jpg" />
+    <Content Include="Images\Artist\Patsy Cline.jpg" />
+    <Content Include="Images\Artist\Patti Smith.jpg" />
+    <Content Include="Images\Artist\Paul Butterfield.jpg" />
+    <Content Include="Images\Artist\Paul McCartney.jpg" />
+    <Content Include="Images\Artist\Paul Revere the Raiders.jpg" />
+    <Content Include="Images\Artist\Paul Simon.jpg" />
+    <Content Include="Images\Artist\Pearl Jam.jpg" />
+    <Content Include="Images\Artist\Percy Sledge.jpg" />
+    <Content Include="Images\Artist\Pet Shop Boys.jpg" />
+    <Content Include="Images\Artist\Pete Townshend.jpg" />
+    <Content Include="Images\Artist\Peter and Gordon.jpg" />
+    <Content Include="Images\Artist\Peter Frampton.jpg" />
+    <Content Include="Images\Artist\Peter Gabriel.jpg" />
+    <Content Include="Images\Artist\Peter Tosh.jpg" />
+    <Content Include="Images\Artist\Peter Wolf.jpg" />
+    <Content Include="Images\Artist\Peter, Paul and Mary.jpg" />
+    <Content Include="Images\Artist\Petula Clark.jpg" />
+    <Content Include="Images\Artist\Phil Collins.jpg" />
+    <Content Include="Images\Artist\Phish.jpg" />
+    <Content Include="Images\Artist\Pink Floyd.jpg" />
+    <Content Include="Images\Artist\Pink.jpg" />
+    <Content Include="Images\Artist\Portishead.jpg" />
+    <Content Include="Images\Artist\Prince.jpg" />
+    <Content Include="Images\Artist\Procol Harum.jpg" />
+    <Content Include="Images\Artist\Public Image Ltd.jpg" />
+    <Content Include="Images\Artist\Queen.jpg" />
+    <Content Include="Images\Artist\R.E.M..jpg" />
+    <Content Include="Images\Artist\Radiohead.jpg" />
+    <Content Include="Images\Artist\Rage Against the Machine.jpg" />
+    <Content Include="Images\Artist\Rainbow.jpg" />
+    <Content Include="Images\Artist\Randy Newman.jpg" />
+    <Content Include="Images\Artist\Raspberries.jpg" />
+    <Content Include="Images\Artist\Ray Charles.jpg" />
+    <Content Include="Images\Artist\Ray Price.jpg" />
+    <Content Include="Images\Artist\Red Hot Chili Peppers.jpg" />
+    <Content Include="Images\Artist\Regina Spektor.jpg" />
+    <Content Include="Images\Artist\Renaissance.jpg" />
+    <Content Include="Images\Artist\REO Speedwagon.jpg" />
+    <Content Include="Images\Artist\Richard Harris.jpg" />
+    <Content Include="Images\Artist\Rick James.jpg" />
+    <Content Include="Images\Artist\Rick Wakeman.jpg" />
+    <Content Include="Images\Artist\Ricky Nelson.jpg" />
+    <Content Include="Images\Artist\Rihanna.jpg" />
+    <Content Include="Images\Artist\Ringo Starr.jpg" />
+    <Content Include="Images\Artist\Ritchie Valens.jpg" />
+    <Content Include="Images\Artist\Robbie Robertson.jpg" />
+    <Content Include="Images\Artist\Robert Cray.jpg" />
+    <Content Include="Images\Artist\Robert Palmer.jpg" />
+    <Content Include="Images\Artist\Robert Plant.jpg" />
+    <Content Include="Images\Artist\Roberta Flack.jpg" />
+    <Content Include="Images\Artist\Robin Lane.jpg" />
+    <Content Include="Images\Artist\Rod Stewart.jpg" />
+    <Content Include="Images\Artist\Roger Daltrey.jpg" />
+    <Content Include="Images\Artist\Roger Hodgson.jpg" />
+    <Content Include="Images\Artist\Roger McGuinn.jpg" />
+    <Content Include="Images\Artist\Roger Waters.jpg" />
+    <Content Include="Images\Artist\Roland Gift.jpg" />
+    <Content Include="Images\Artist\Romare.jpg" />
+    <Content Include="Images\Artist\Roxy Music.jpg" />
+    <Content Include="Images\Artist\Roy Orbison.jpg" />
+    <Content Include="Images\Artist\Royksopp.jpg" />
+    <Content Include="Images\Artist\Rush.jpg" />
+    <Content Include="Images\Artist\Ryan Adams.jpg" />
+    <Content Include="Images\Artist\Sade.jpg" />
+    <Content Include="Images\Artist\Salt-N-Pepa.jpg" />
+    <Content Include="Images\Artist\Sam Cooke.jpg" />
+    <Content Include="Images\Artist\Sam Dave.jpg" />
+    <Content Include="Images\Artist\Sam the Sham.jpg" />
+    <Content Include="Images\Artist\Santana.jpg" />
+    <Content Include="Images\Artist\Sarah Brightman.jpg" />
+    <Content Include="Images\Artist\Scissor Sisters.jpg" />
+    <Content Include="Images\Artist\Seal.jpg" />
+    <Content Include="Images\Artist\Seals and Crofts.jpg" />
+    <Content Include="Images\Artist\Shakira.jpg" />
+    <Content Include="Images\Artist\Shania Twain.jpg" />
+    <Content Include="Images\Artist\Shannon McNally.jpg" />
+    <Content Include="Images\Artist\Sheena Easton.jpg" />
+    <Content Include="Images\Artist\Sheryl Crow.jpg" />
+    <Content Include="Images\Artist\Shivaree.jpg" />
+    <Content Include="Images\Artist\Shocking Blue.jpg" />
+    <Content Include="Images\Artist\Sia.jpg" />
+    <Content Include="Images\Artist\Simon Garfunkel.jpg" />
+    <Content Include="Images\Artist\Simple Minds.jpg" />
+    <Content Include="Images\Artist\Sinead O%27Connor.jpg" />
+    <Content Include="Images\Artist\Skylar Grey.jpg" />
+    <Content Include="Images\Artist\Sleepthief.jpg" />
+    <Content Include="Images\Artist\Sly and the Family Stone.jpg" />
+    <Content Include="Images\Artist\Small Faces.jpg" />
+    <Content Include="Images\Artist\Smokey Robinson.jpg" />
+    <Content Include="Images\Artist\Soft Cell.jpg" />
+    <Content Include="Images\Artist\Sohn.jpg" />
+    <Content Include="Images\Artist\Sol Seppy.jpg" />
+    <Content Include="Images\Artist\Sonic Youth.jpg" />
+    <Content Include="Images\Artist\Sonny Cher.jpg" />
+    <Content Include="Images\Artist\Sophie Barker.jpg" />
+    <Content Include="Images\Artist\Soundgarden.jpg" />
+    <Content Include="Images\Artist\Southside Johnny and the Asbury Jukes.jpg" />
+    <Content Include="Images\Artist\Spandau Ballet.jpg" />
+    <Content Include="Images\Artist\Sparklehorse.jpg" />
+    <Content Include="Images\Artist\Spirit.jpg" />
+    <Content Include="Images\Artist\Squeeze.jpg" />
+    <Content Include="Images\Artist\Starship.jpg" />
+    <Content Include="Images\Artist\Status Quo.jpg" />
+    <Content Include="Images\Artist\Steelheart.jpg" />
+    <Content Include="Images\Artist\Steely Dan.jpg" />
+    <Content Include="Images\Artist\Steppenwolf.jpg" />
+    <Content Include="Images\Artist\Steve Howe.jpg" />
+    <Content Include="Images\Artist\Steve Miller Band.jpg" />
+    <Content Include="Images\Artist\Steve Perry.jpg" />
+    <Content Include="Images\Artist\Steve Winwood.jpg" />
+    <Content Include="Images\Artist\Stevie Nicks.jpg" />
+    <Content Include="Images\Artist\Stevie Ray Vaughan.jpg" />
+    <Content Include="Images\Artist\Stevie Wonder.jpg" />
+    <Content Include="Images\Artist\Sting.jpg" />
+    <Content Include="Images\Artist\Stone Temple Pilots.jpg" />
+    <Content Include="Images\Artist\Strawberry Alarm Clock.jpg" />
+    <Content Include="Images\Artist\Stray Cats.jpg" />
+    <Content Include="Images\Artist\Styx.jpg" />
+    <Content Include="Images\Artist\Sufjan Stevens.jpg" />
+    <Content Include="Images\Artist\Supertramp.jpg" />
+    <Content Include="Images\Artist\Sweet.jpg" />
+    <Content Include="Images\Artist\T. Rex.jpg" />
+    <Content Include="Images\Artist\Tal Bachman.jpg" />
+    <Content Include="Images\Artist\Talking Heads.jpg" />
+    <Content Include="Images\Artist\Tammy Wynette.jpg" />
+    <Content Include="Images\Artist\Tavares.jpg" />
+    <Content Include="Images\Artist\Tears for Fears.jpg" />
+    <Content Include="Images\Artist\Teddy Pendergrass.jpg" />
+    <Content Include="Images\Artist\The 5th Dimension.jpg" />
+    <Content Include="Images\Artist\The Allman Brothers Band.jpg" />
+    <Content Include="Images\Artist\The Amboy Dukes.jpg" />
+    <Content Include="Images\Artist\The Animals.jpg" />
+    <Content Include="Images\Artist\The Association.jpg" />
+    <Content Include="Images\Artist\The Asteroids Galaxy Tour.jpg" />
+    <Content Include="Images\Artist\The B-52%27s.jpg" />
+    <Content Include="Images\Artist\The Babys.jpg" />
+    <Content Include="Images\Artist\The Band.jpg" />
+    <Content Include="Images\Artist\The Bangles.jpg" />
+    <Content Include="Images\Artist\The Beach Boys.jpg" />
+    <Content Include="Images\Artist\The Beat.jpg" />
+    <Content Include="Images\Artist\The Beatles.jpg" />
+    <Content Include="Images\Artist\The Beautiful South.jpg" />
+    <Content Include="Images\Artist\The Black Crowes.jpg" />
+    <Content Include="Images\Artist\The Black Eyed Peas.jpg" />
+    <Content Include="Images\Artist\The Box Tops.jpg" />
+    <Content Include="Images\Artist\The Byrds.jpg" />
+    <Content Include="Images\Artist\The Cardigans.jpg" />
+    <Content Include="Images\Artist\The Carpenters.jpg" />
+    <Content Include="Images\Artist\The Cars.jpg" />
+    <Content Include="Images\Artist\The Chi-Lites.jpg" />
+    <Content Include="Images\Artist\The Cinematic Orchestra.jpg" />
+    <Content Include="Images\Artist\The Clancy Brothers.jpg" />
+    <Content Include="Images\Artist\The Clash.jpg" />
+    <Content Include="Images\Artist\The Coasters.jpg" />
+    <Content Include="Images\Artist\The Corrs.jpg" />
+    <Content Include="Images\Artist\The Cowsills.jpg" />
+    <Content Include="Images\Artist\The Cranberries.jpg" />
+    <Content Include="Images\Artist\The Cult.jpg" />
+    <Content Include="Images\Artist\The Cure.jpg" />
+    <Content Include="Images\Artist\The Delfonics.jpg" />
+    <Content Include="Images\Artist\The Doobie Brothers.jpg" />
+    <Content Include="Images\Artist\The Doors.jpg" />
+    <Content Include="Images\Artist\The Dream Syndicate.jpg" />
+    <Content Include="Images\Artist\The Drifters.jpg" />
+    <Content Include="Images\Artist\The Dubliners.jpg" />
+    <Content Include="Images\Artist\The Everly Brothers.jpg" />
+    <Content Include="Images\Artist\The Firm.jpg" />
+    <Content Include="Images\Artist\The Fixx.jpg" />
+    <Content Include="Images\Artist\The Fools.jpg" />
+    <Content Include="Images\Artist\The Fortunes.jpg" />
+    <Content Include="Images\Artist\The Four Seasons %28band%29.jpg" />
+    <Content Include="Images\Artist\The Go-Go%27s.jpg" />
+    <Content Include="Images\Artist\The Grass Roots.jpg" />
+    <Content Include="Images\Artist\The Guess Who.jpg" />
+    <Content Include="Images\Artist\The Highwaymen.jpg" />
+    <Content Include="Images\Artist\The Hollies.jpg" />
+    <Content Include="Images\Artist\The Hues Corporation.jpg" />
+    <Content Include="Images\Artist\The Human League.jpg" />
+    <Content Include="Images\Artist\The Impressions.jpg" />
+    <Content Include="Images\Artist\The Incredible String Band.jpg" />
+    <Content Include="Images\Artist\The Invisible.jpg" />
+    <Content Include="Images\Artist\The Isley Brothers.jpg" />
+    <Content Include="Images\Artist\The J. Geils Band.jpg" />
+    <Content Include="Images\Artist\The Jackson 5.jpg" />
+    <Content Include="Images\Artist\The Jaggerz.jpg" />
+    <Content Include="Images\Artist\The Jayhawks.jpg" />
+    <Content Include="Images\Artist\The Kingsmen.jpg" />
+    <Content Include="Images\Artist\The Kinks.jpg" />
+    <Content Include="Images\Artist\The Knack.jpg" />
+    <Content Include="Images\Artist\The Left Banke.jpg" />
+    <Content Include="Images\Artist\The Lemon Pipers.jpg" />
+    <Content Include="Images\Artist\The Lovin%27 Spoonful.jpg" />
+    <Content Include="Images\Artist\The Main Ingredient.jpg" />
+    <Content Include="Images\Artist\The Mamas the Papas.jpg" />
+    <Content Include="Images\Artist\The Marshall Tucker Band.jpg" />
+    <Content Include="Images\Artist\The Mescaleros.jpg" />
+    <Content Include="Images\Artist\The Middle East.jpg" />
+    <Content Include="Images\Artist\The Miracles.jpg" />
+    <Content Include="Images\Artist\The Modern Lovers.jpg" />
+    <Content Include="Images\Artist\The Moments.jpg" />
+    <Content Include="Images\Artist\The Monkees.jpg" />
+    <Content Include="Images\Artist\The Moody Blues.jpg" />
+    <Content Include="Images\Artist\The Motels.jpg" />
+    <Content Include="Images\Artist\The Neville Brothers.jpg" />
+    <Content Include="Images\Artist\The O%27Jays.jpg" />
+    <Content Include="Images\Artist\The Partridge Family.jpg" />
+    <Content Include="Images\Artist\The Pierces.jpg" />
+    <Content Include="Images\Artist\The Platters.jpg" />
+    <Content Include="Images\Artist\The Pointer Sisters.jpg" />
+    <Content Include="Images\Artist\The Police.jpg" />
+    <Content Include="Images\Artist\The Pretenders.jpg" />
+    <Content Include="Images\Artist\The Psychedelic Furs.jpg" />
+    <Content Include="Images\Artist\The Rascals.jpg" />
+    <Content Include="Images\Artist\The Replacements.jpg" />
+    <Content Include="Images\Artist\The Righteous Brothers.jpg" />
+    <Content Include="Images\Artist\The Rolling Stones.jpg" />
+    <Content Include="Images\Artist\The Ronettes.jpg" />
+    <Content Include="Images\Artist\The Sandpipers.jpg" />
+    <Content Include="Images\Artist\The Searchers.jpg" />
+    <Content Include="Images\Artist\The Seekers.jpg" />
+    <Content Include="Images\Artist\The Shirelles.jpg" />
+    <Content Include="Images\Artist\The Smashing Pumpkins.jpg" />
+    <Content Include="Images\Artist\The Smiths.jpg" />
+    <Content Include="Images\Artist\The Specials.jpg" />
+    <Content Include="Images\Artist\The Spencer Davis Group.jpg" />
+    <Content Include="Images\Artist\The Spinners.jpg" />
+    <Content Include="Images\Artist\The Staple Singers.jpg" />
+    <Content Include="Images\Artist\The Style Council.jpg" />
+    <Content Include="Images\Artist\The Stylistics.jpg" />
+    <Content Include="Images\Artist\The Supremes.jpg" />
+    <Content Include="Images\Artist\The Teardrop Explodes.jpg" />
+    <Content Include="Images\Artist\The Temptations.jpg" />
+    <Content Include="Images\Artist\The Three Degrees.jpg" />
+    <Content Include="Images\Artist\The Trammps.jpg" />
+    <Content Include="Images\Artist\The Tremeloes.jpg" />
+    <Content Include="Images\Artist\The Troggs.jpg" />
+    <Content Include="Images\Artist\The Tubes.jpg" />
+    <Content Include="Images\Artist\The Turtles.jpg" />
+    <Content Include="Images\Artist\The Velvet Underground.jpg" />
+    <Content Include="Images\Artist\The Ventures.jpg" />
+    <Content Include="Images\Artist\The Verve.jpg" />
+    <Content Include="Images\Artist\The Wallflowers.jpg" />
+    <Content Include="Images\Artist\The Waterboys.jpg" />
+    <Content Include="Images\Artist\The Who.jpg" />
+    <Content Include="Images\Artist\The Yardbirds.jpg" />
+    <Content Include="Images\Artist\The Youngbloods.jpg" />
+    <Content Include="Images\Artist\The Zombies.jpg" />
+    <Content Include="Images\Artist\Them.jpg" />
+    <Content Include="Images\Artist\Thin Lizzy.jpg" />
+    <Content Include="Images\Artist\Thomas Dolby.jpg" />
+    <Content Include="Images\Artist\Thompson Twins.jpg" />
+    <Content Include="Images\Artist\Three Dog Night.jpg" />
+    <Content Include="Images\Artist\Tina Dico.jpg" />
+    <Content Include="Images\Artist\Tina Turner.jpg" />
+    <Content Include="Images\Artist\TLC.jpg" />
+    <Content Include="Images\Artist\Toad the Wet Sprocket.jpg" />
+    <Content Include="Images\Artist\Todd Rundgren.jpg" />
+    <Content Include="Images\Artist\Tom Johnston.jpg" />
+    <Content Include="Images\Artist\Tom Jones.jpg" />
+    <Content Include="Images\Artist\Tom Middleton.jpg" />
+    <Content Include="Images\Artist\Tom Petty.jpg" />
+    <Content Include="Images\Artist\Tom Rush.jpg" />
+    <Content Include="Images\Artist\Tommy James and the Shondells.jpg" />
+    <Content Include="Images\Artist\Tommy Roe.jpg" />
+    <Content Include="Images\Artist\Tony Banks.jpg" />
+    <Content Include="Images\Artist\Tony Orlando and Dawn.jpg" />
+    <Content Include="Images\Artist\Tori Amos.jpg" />
+    <Content Include="Images\Artist\Toto.jpg" />
+    <Content Include="Images\Artist\Tower of Power.jpg" />
+    <Content Include="Images\Artist\Tracy Chapman.jpg" />
+    <Content Include="Images\Artist\Traffic.jpg" />
+    <Content Include="Images\Artist\Traveling Wilburys.jpg" />
+    <Content Include="Images\Artist\Travis.jpg" />
+    <Content Include="Images\Artist\Trey Anastasio.jpg" />
+    <Content Include="Images\Artist\Tycho.jpg" />
+    <Content Include="Images\Artist\U2.jpg" />
+    <Content Include="Images\Artist\UB40.jpg" />
+    <Content Include="Images\Artist\Van Halen.jpg" />
+    <Content Include="Images\Artist\Van Morrison.jpg" />
+    <Content Include="Images\Artist\Vanilla Fudge.jpg" />
+    <Content Include="Images\Artist\Venus Hum.jpg" />
+    <Content Include="Images\Artist\Wanda Jackson.jpg" />
+    <Content Include="Images\Artist\War.jpg" />
+    <Content Include="Images\Artist\Warren Zevon.jpg" />
+    <Content Include="Images\Artist\Weezer.jpg" />
+    <Content Include="Images\Artist\Wham!.jpg" />
+    <Content Include="Images\Artist\Whitney Houston.jpg" />
+    <Content Include="Images\Artist\Wilco.jpg" />
+    <Content Include="Images\Artist\Wild Cherry.jpg" />
+    <Content Include="Images\Artist\Willie Nelson.jpg" />
+    <Content Include="Images\Artist\Wilson Pickett.jpg" />
+    <Content Include="Images\Artist\World Party.jpg" />
+    <Content Include="Images\Artist\X.jpg" />
+    <Content Include="Images\Artist\XTC.jpg" />
+    <Content Include="Images\Artist\Yes.jpg" />
+    <Content Include="Images\Artist\Zager and Evans.jpg" />
+    <Content Include="Images\Artist\Zero 7.jpg" />
+    <Content Include="Images\Artist\Ziggy Marley.jpg" />
+    <Content Include="Images\Artist\Zoe Johnston.jpg" />
+    <Content Include="Images\Artist\ZZ Top.jpg" />
+    <Content Include="IMPORTANT TECH LINKS.txt" />
+    <Content Include="json_db192x192transparent.png" />
+    <Content Include="json_db48x48.png" />
+    <Content Include="json_db48x48transparent.ico" />
+    <Content Include="json_net 81x50.png" />
+    <Content Include="json_path 60x60.png" />
+    <Content Include="Models\Artist source\special_ampersands.png" />
+    <Content Include="Models\Artist source\special_apostrophe.png" />
+    <Content Include="Models\Artist source\readme.txt" />
+    <Content Include="Models\important utilities\readme.txt" />
+    <Content Include="Models\notes.txt" />
+    <Content Include="Models\Artist source\special_periods.png" />
+    <Content Include="Models\Artist source\special_slash.png" />
+    <Content Include="MVC3.jpg" />
+    <Content Include="programmer.jpg" />
+    <Content Include="Site.css" />
+    <Content Include="StandardStreams.css" />
+    <Content Include="StandardStreams.htm" />
+    <Content Include="StandardStreams.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\Lockout.cshtml" />
+    <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="WorkingWebBrowserServices.css" />
+    <Content Include="WorkingWebBrowserServices.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\ArtistDiscog\" />
+    <Folder Include="Views\ArtistVideo\" />
+    <Folder Include="Views\Artist\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Models\Code.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Models\Artist.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Models\ArtistDiscog.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Models\ArtistVideo.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Models\Artist source\artist MASTER.xlsx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Models\important utilities\JSON to C sharp model.url" />
+    <Content Include="Models\important utilities\JSON to HTML table to Excel.url" />
+    <Content Include="Models\important utilities\online CSV to JSON converter.url" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51080</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:51080/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>
