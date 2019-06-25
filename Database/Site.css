@@ -1,0 +1,38 @@
+﻿/*----------------------------------------------*/
+:root {
+  /*--mainColor: #3B5997;*/ /* FaceBook blue */
+  /*--accentColor: #ED7F09;*/ /* Trendy orange */
+    --mainColor: green;
+    --accentColor: yellow;
+}
+
+/*----------------------------------------------*/
+/* Trendy orange */
+.AccentColor
+{
+    color: #ED7F09;
+    font-weight: bold;
+}
+
+/* FaceBook blue */
+
+.BaseColor
+{
+    color: #3B5997;
+    background-color: White;
+}
+
+body, textarea
+{
+    font-size: 20px;
+}
+
+input {
+    font-size: 20px;
+}
+
+#banner_image
+{
+    height: 64px;
+    width: 64px;
+}

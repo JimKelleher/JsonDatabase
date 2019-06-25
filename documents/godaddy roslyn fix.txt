@@ -1,0 +1,38 @@
+
+3-31-2017
+
+My previous fix to the Roslyn on GoDaddy problem was to uninstall Roslyn.
+
+In this app I found a better way. 
+
+See StackOverflow: http://stackoverflow.com/questions/24638267/deploying-asp-net-mvc4-app-to-godaddy-compiler-issue
+
+This fix worked for me:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+I have struggled with the same problem for months. And finally solved it. In the plesk on godaddy I changed the ASP.Net settings.
+First changed CAS-trustlevel to Full. Then I changed in the Web.config of my project the following:
+
+Add trust level full to the system.web
+
+Remove the compilers in the system.codecom
+
+ <system.web>
+    compilation debug="true" targetFramework="4.5.2"/>
+    <httpRuntime targetFramework="4.5.2"/>
+    <trust level="Full"/>             <!-- Just add this to the webconfig -->
+ </system.web>
+
+ <system.codedom>
+              <!-- All is removed between the 2 tags-->
+ </system.codedom>
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Search code for:
+
+"Roslyn on GoDaddy fix x of 2"
+
+
+

@@ -1,0 +1,173 @@
+
+This document, "artist database query encoding.txt", stored in duplicate:
+
+	C:\a_dev\NodeJS\artistmaint\info
+	C:\a_dev\ASP\Database
+
+------------------------------------------------------------------------------------------------------------------------
+
+All special chars in all artist names:
+
+C:\a_dev\ASP\Database\Database\Models\Artist source\
+	special_ampersands.png
+	special_apostrophe.png
+	special_periods.png
+	special_slash.png
+
+------------------------------------------------------------------------------------------------------------------------
+
+Did utility search to find all special chars in all artist names.  Result with one example each:
+
+						JSON DB App
+Char	Artist Example				Query Results
+
+!	Wham!					OK
+&	Sam%20&%20Dave				crash
+'	The%20Go-Go's				crash
+(	The%20Four%20Seasons%20(band)		OK
+)	The%20Four%20Seasons%20(band)		OK
++	Mike%20+%20The%20Mechanics		crash
+,	10,000%20Maniacs				OK
+-	Salt-N-Pepa				OK
+.	R.E.M.					crash
+/	AC/DC					crash
+
+------------------------------------------------------------------------------------------------------------------------
+
+&	Sam%20&%20Dave				crash
+'	The%20Go-Go's				crash
+.	R.E.M.					crash
+/	AC/DC					crash
+
+------------------------------------------------------------------------------------------------------------------------
+
+ArtistMaint
+------------
+
+getJsonFromJsonDatabase()
+	decode_artist_name_special_chars()
+		EG: artist_name_edited = artist_name_edited.split("Ã–" ).join("Ö");
+
+lookupDetailDataWD()
+	encode_artist_name_punctuation()
+    		EG: artist_name_edited = artist_name_edited.split("&").join("%26");
+
+	replace_artist_name_special_chars()
+    		EG: artist_name_edited = artist_name_edited.replace(/ö/g, "o");
+
+lookupDetailDataYA() {
+	encode_artist_name_punctuation()
+    		EG: artist_name_edited = artist_name_edited.split("&").join("%26");
+
+	replace_artist_name_special_chars()
+    		EG: artist_name_edited = artist_name_edited.replace(/ö/g, "o");
+
+------------------------------------------------------------------------------------------------------------------------
+
+Database
+---------
+
+Database Kludge # 1:
+
+// NOTE: The core JSON Path module has a bug for this data-type only.  Rather than
+// open that can of worms, I will simply patch the JSON:
+Controllers
+	ArtistVideoController.cs
+		            response = response.Replace("}]},", "},");
+
+------------------------------------------------------------------------------------------------------------------------
+
+Database Kludge # 2:
+
+C:\a_dev\ASP\Database\Database\Models\
+
+Artist.json		Björk	Can handle special characters
+ArtistDiscog.json		Bjork	Can't handle special characters - must manually substitute *
+ArtistVideo.json		Bjork	Can't handle special characters - must manually substitute *
+
+* = see full list, "foreign/unusual special characters ", below
+
+------------------------------------------------------------------------------------------------------------------------
+
+test URL							test result	fix used			
+
+http://localhost:51080/Artist/Get/Sam%20&%20Dave		crash on wire	
+http://localhost:51080/Artist/Get/The%20Go-Go's		crash in module		
+http://localhost:51080/Artist/Get/R.E.M.			crash on wire		
+http://localhost:51080/Artist/Get/AC/DC			crash on wire
+
+http://localhost:51080/Artist/Get/?id=Sam%20&%20Dave		crash in module	encoding: %26
+http://localhost:51080/Artist/Get/?id=The%20Go-Go's		crash in module	escape: \'
+http://localhost:51080/Artist/Get/?id=R.E.M.			runs OK		?id=
+http://localhost:51080/Artist/Get/?id=AC/DC			runs OK		?id=
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Complete list of foreign/unusual special characters in Artist names:
+
+Bachman–Turner Overdrive
+Björk
+Blue Öyster Cult
+José Feliciano
+José González
+Röyksopp
+Sinéad O'Connor
+
+–	En dash		Bachman–Turner Overdrive
+ö	o diaeresis	Björk, Röyksopp
+Ö	capital o diaeresis	Blue Öyster Cult
+á	a acute		José González
+é	e acute		José Feliciano, José González, Sinéad O'Connor
+
+En dash. The en dash (–) is slightly wider than the hyphen (-) but narrower than the em dash (—).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Characters that get translated when UTF-8 data is retrieved from the JSON Database Artist lookup
+in application artistmaint:
+
+Blue Öyster Cult				Blue Ã–yster Cult
+Björk, Röyksopp				BjÃ¶rk, RÃ¶yksopp
+José Feliciano, José González, Sinéad O'Connor	JosÃ© Feliciano, JosÃ© GonzÃ¡lez, SinÃ©ad O'Connor
+José González				JosÃ© GonzÃ¡lez
+Bachman–Turner Overdrive			Bachmanâ€“Turner Overdrive
+
+Ö	Ã–
+ö	Ã¶
+é	Ã©
+á	Ã¡
+–	â€“
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

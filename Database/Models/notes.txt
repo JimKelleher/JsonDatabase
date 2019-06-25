@@ -1,0 +1,12 @@
+﻿
+Removed because:
+
+1) was causing problems in ArtistMaint - the question mark symbol
+2) YT had no albums for it anyway
+
+    // {
+    //     "id":"? and the Mysterians",
+    //     "decade":1960,
+    //     "genre":"POP",
+    //     "image":"https://i.ytimg.com/vi/R7uC5m-IRns/hqdefault.jpg"
+    //  },
